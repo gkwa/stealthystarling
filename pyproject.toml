@@ -1,0 +1,19 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "reviewquality"
+version = "0.1.0"
+description = "Estimate practice quality from a harvested Google reviews JSON file"
+requires-python = ">=3.11"
+dependencies = ["polars>=1.0"]
+
+[project.scripts]
+reviewquality = "reviewquality.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/reviewquality"]
+
+[tool.ruff]
+line-length = 100
