@@ -14,6 +14,8 @@ uv run reviewquality "orthodontist reviews.json" -vv          # debug logs
 uv run reviewquality "orthodontist reviews.json" --min-reviews 30
 uv run reviewquality "orthodontist reviews.json" --half-life 2
 uv run reviewquality "orthodontist reviews.json" --recent-window 365
+uv run reviewannotate "orthodontist reviews.json"             # add date_approx in place
+uv run reviewannotate "orthodontist reviews.json" -o out.json # write a copy instead
 ```
 
 ## Why not just rank by mean rating
@@ -45,3 +47,9 @@ Google reports ages relatively, so dates are estimated as the harvest date
 minus the stated offset. The buckets are coarse — anything from 12 to 23 months
 reads as "a year ago" — so older dates carry roughly six months of error. Use
 them for cohorts and trends, not for precise timelines.
+
+`reviewannotate` writes that estimate back into the harvest file as a
+`date_approx` field beside each review's relative `date`, so the JSON carries
+calendar dates without a rerun of the scorer. Rerunning it is safe: an existing
+`date_approx` is recomputed from the current harvest date rather than
+duplicated.
