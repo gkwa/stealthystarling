@@ -1,9 +1,9 @@
 {
   "source": "Google reviews via search knowledge-panel review dialog, sorted Newest",
   "harvested": "2026-08-10",
-  "note": "Sorted by Newest; the default Most relevant sort truncates the feed. All More links expanded before extraction.",
-  "practice_count": 34,
-  "review_count": 7204,
+  "note": "Sorted by Newest; the default Most relevant sort truncates the feed. All More links expanded before extraction. The two jorge peralta dds ps offices were harvested on 2026-08-31, after the 2026-08-10 pass, and carry a per-practice 'harvested' field recording that. The loader dates every review from the file-level 'harvested' date, so those two practices are dated 21 days older than they are. Both feeds reached Google's full stated count, so neither was truncated despite the West Seattle office being read under the Most relevant sort.",
+  "practice_count": 36,
+  "review_count": 7598,
   "practices": {
     "emerald city orthodontics": {
       "note": "emerald city orthodontics",
@@ -65233,6 +65233,3582 @@
           "rating_scale": 5,
           "date": "9 years ago",
           "date_approx": "2017-08-10",
+          "text": null
+        }
+      ]
+    },
+    "jorge peralta dds ps (burien)": {
+      "note": "jorge peralta dds ps",
+      "business_searched": "Peralta Orthodontics Burien WA",
+      "note_name_differs": true,
+      "location": "15507 2nd Ave SW, Burien",
+      "stated_total": 152,
+      "sorts_used": [
+        "Newest"
+      ],
+      "harvested": "2026-08-31",
+      "harvested_from": "https://www.google.com/search?q=Peralta+Orthodontics+Burien+WA+reviews#lrd=0x5490449e90c88e71:0x6fc5c2607d8bab8c,1,,,,",
+      "review_count": 152,
+      "reviews": [
+        {
+          "author": "Susan Schroder",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a week ago",
+          "date_approx": "2026-08-03",
+          "text": null
+        },
+        {
+          "author": "Margo Fincher",
+          "author_meta": "5 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a week ago",
+          "date_approx": "2026-08-03",
+          "text": null
+        },
+        {
+          "author": "Danielle Stevens",
+          "author_meta": "2 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 weeks ago",
+          "date_approx": "2026-07-20",
+          "text": "Dr. Peralta is wonderful! So kind and knows what he's doing. His staff is awesome too. Shout out to David who was with me my whole journey. I couldn't be happier with my results!"
+        },
+        {
+          "author": "Fran Hogan mooney",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": null
+        },
+        {
+          "author": "moe",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": null
+        },
+        {
+          "author": "Angelina N",
+          "author_meta": "8 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": "Dr. Peralta is great; thorough, communicative and responsive. We adore Amanda, who is wonderful. She is  professional, gentle, knowledgeable, efficient and highly skilled at what she does."
+        },
+        {
+          "author": "Cora",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": null
+        },
+        {
+          "author": "Roger Carr",
+          "author_meta": "Local Guide·72 reviews·967 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "Edited 2 months ago",
+          "date_approx": "2026-06-10",
+          "text": null
+        },
+        {
+          "author": "Jeff Vaux",
+          "author_meta": "Local Guide·27 reviews·28 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 months ago",
+          "date_approx": "2026-05-11",
+          "text": null
+        },
+        {
+          "author": "Sienna White",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 months ago",
+          "date_approx": "2026-04-10",
+          "text": "braces off!!! everyone was so nice and saved my teeth 🥹🫰🥹🫰🥹"
+        },
+        {
+          "author": "Ava McLean",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 months ago",
+          "date_approx": "2026-03-11",
+          "text": null
+        },
+        {
+          "author": "Ignacio B",
+          "author_meta": "9 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 months ago",
+          "date_approx": "2026-03-11",
+          "text": "Doc PerAlta is the man. Always professional yet down to earth. Knowledgeable and patient. The staff was always cheerful and treated me with the utmost respect. David and Amanda was with me the whole time. Highly recommend Dr PerAlta and fam!!"
+        },
+        {
+          "author": "Joseph Wood",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 months ago",
+          "date_approx": "2026-02-08",
+          "text": "Always accommodating when it comes to making appointments."
+        },
+        {
+          "author": "Nick Fortunatus",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 months ago",
+          "date_approx": "2026-02-08",
+          "text": "Staff was very nice and helpful with my daughter as she got braces installed. Thank you!Definitely recommend!"
+        },
+        {
+          "author": "Onyx",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 months ago",
+          "date_approx": "2026-01-09",
+          "text": "They did such an incredible job with my teeth!!! It completely restored my confidence and I’ve never felt better about myself!! :DThey are the nicest people and super polite, strongly recommend!!!"
+        },
+        {
+          "author": "Simone Darden-Bond",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "10/10 im so satisfied with my care! All of the staff were so kind, and I felt such a sense of community! Don’t consider any other orthodontist Peralta is the best"
+        },
+        {
+          "author": "Uyen mi Chau",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "100% recommended for this orthodontics. Dr.Peralta is really good, he knows what he is doing and just takes care of patients case by case, not because of the sales. The clinic staff and assistants are nice and pay attention to details. I am so happy with my treatments and I love to hear that they will follow up with the patients after it is done."
+        },
+        {
+          "author": "Jennifer Butler",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "I came to see Dr. Peralta to correct an open bite that I was previously told could only be corrected by breaking and then resetting my jaw. Not only did I not have to break any  bones to fix my bite, but now my bite is perfect! The whole team at Dr. Peralta’s office was super friendly and professional. David was especially helpful in getting my bite to its current level of amazingness! Thank you so much! I would highly recommend."
+        },
+        {
+          "author": "Thuy Nguyen",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "Thank you Doctor Peralta and all of the beautiful people that work on my teeth, you all are did an awesome job. Everyone are so nice, gentle, sweet, super nice , smile all the time , I feel very comfortable every each visit. I highly recommend to people who like to have braces done at this place.Thank you so much i wish you all a very happy Holidays and many blessings to you all Love you guys ❤️"
+        },
+        {
+          "author": "Jackendy Gaillard",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "Just got my braces off thx dr Peralta and David. My teeth look amazinggg"
+        },
+        {
+          "author": "gwendolin nguyen",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 months ago",
+          "date_approx": "2025-11-09",
+          "text": "Just got my braces off! Zero pain. Love love love Peralta."
+        },
+        {
+          "author": "Bondo Lero",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 months ago",
+          "date_approx": "2025-11-09",
+          "text": "Mr. Peralta and team Thank You Thank You for my new teeth and smile. I got braces off today and it looks incredible.  I had decided to get braces later in my life again and so thankful I did it.  The whole experience was easy and your smile is invaluable.  If you’re looking for quality and service I recommend Peralta."
+        },
+        {
+          "author": "Jessica Brase",
+          "author_meta": "2 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 months ago",
+          "date_approx": "2025-11-09",
+          "text": "Thanks to the Peralta team, very happy with my teeth and the care I received."
+        },
+        {
+          "author": "Fabian Hernandez-Angel",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 months ago",
+          "date_approx": "2025-10-10",
+          "text": "Just got off my braces today!My family has a history of dental issues, both my mother and sister needed braces and had scary stories on how painful the experience was.But here, I can't recall an instance of any pain. The folks were inviting, socialable, and always open to answering questions.Thanks Dr. Paralta!"
+        },
+        {
+          "author": "Zackary Randall",
+          "author_meta": "10 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 months ago",
+          "date_approx": "2025-10-10",
+          "text": "Amazing staff and service! Dr. Peralta and his team always took care of me and I’m so pleased with the results! If you want a great orthodontic experience go to Peralta!"
+        },
+        {
+          "author": "Julie Hoang",
+          "author_meta": "1 review",
+          "rating": 1,
+          "rating_scale": 5,
+          "date": "11 months ago",
+          "date_approx": "2025-09-09",
+          "text": "⭐ If I could, I would give them negative stars for their extremely poor customer service. When I called to make an appointment, the lady who answered the phone simply said “hello” instead of introducing the office and offering assistance. When I asked to schedule an appointment, she responded as if I was bothering her or asking for a favor. At the end of the call, I politely said “thank you and have a good day,” and her response was just “uh-huh.” This level of rudeness and unprofessionalism is unacceptable, especially for a business that deals with patients"
+        },
+        {
+          "author": "Sullivan Crane",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 months ago",
+          "date_approx": "2025-09-09",
+          "text": "I got my braces off overall great job fromThe staff"
+        },
+        {
+          "author": "Leo Wallis",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 months ago",
+          "date_approx": "2025-09-09",
+          "text": "I got my braces off here and had an overall great service."
+        },
+        {
+          "author": "Billy Guzman",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 months ago",
+          "date_approx": "2025-09-09",
+          "text": "My bottom teeth were severely crowded and my top teeth needed a bit of straightening. My whole treatment lasted 22 months and it was totally worth the time spent in them. My teeth are straight and my bite is aligned. Definitely recommend if you’re looking to get braces."
+        },
+        {
+          "author": "Eleanor Caparoso",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Shoutout to David for taking my braces off! Everyone here is so friendly and patient."
+        },
+        {
+          "author": "ella ombac",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Just got my braces off, such a good experience with Peralta!!"
+        },
+        {
+          "author": "PhuongAnh Nguyen",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Marisa Hull",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Here’s your more upbeat, glowing version:⸻We absolutely love Dr. Peralta and the whole team! They’re always on time, incredibly friendly, and genuinely care about their patients. Dr. Peralta’s skill is unmatched—when my oldest needed braces a much longer after an accident that prolonged his treatment, they didn’t even charge us. Both of my kids have beautiful smiles thanks to them, and we wouldn’t trust anyone else!"
+        },
+        {
+          "author": "Jessica Eaton",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Christina Nguyen",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Before I went here, my teeth was not the most perfect. Couple years after I got my braces removed I fell in love with my teeth and got my confidents back. I love everyone here, they are so amazing. I do recommend coming here."
+        },
+        {
+          "author": "Michael Turner",
+          "author_meta": "Local Guide·83 reviews·13 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Dr. Peralta and his staff are super nice. They explained everything about aligners to my middle schooler, so that he's completely independent in wearing and looking after them.Finding the entrance with Google maps directions was \"fun\" but that's on Google."
+        },
+        {
+          "author": "Amanda Pittis",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Both of my daughters had great experiences. The youngest one just had braces removed and loved all the staff, says David is the best!"
+        },
+        {
+          "author": "Kevin Singer",
+          "author_meta": "6 reviews·9 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "In short - Dr. Peralta and team are a phenomenal care provider. When our 12-year old daughter needed braces, we were recommended to come here by a close friend.  Every aspect has been positive from the initial visit, transparency in the care plan and costs, appointments always running on time, and excellent results from the orthodontia.I also wanted to share my praise to the team at Peralta Ortho after I witnessed another customer get upset about scheduling and a complaint about not being treated fairly.  Overall, the staff, including Dr. Peralta, handled the situation with tact, thoughtfulness and respect.  The customer was upset that they weren't being \"squeezed\" into the schedule.  I love that I never need to wait for a scheduled appointment and while it might be for other offices to overbook, I never see that problem at this office.I applaud the team’s efforts to always work to accommodate schedules and be timely and prompt. We have never had to wait for our scheduled appointment time and find that the office runs extremely efficiently while still finding time for a personal touch. My daughter feels very comfortable and is often asked by different team members how her braces are treating her, which helps build even more trust.In the face of rising healthcare costs, insurance challenges, and general dissatisfaction in the overall industry, Peralta's stands out as a bright spot of how to treat people.Appreciate the entire team and all they do."
+        },
+        {
+          "author": "Khamora Chunphakvenn",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Today David helped me understand the use of my bands and I’m super proud to be able to use them as needed now with extra support! Go David !!"
+        },
+        {
+          "author": "Theresa Ortega",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Dr Peralta and his entire staff were very professional, friendly and polite! You are always greeted with warm and friendly smiles every time you come in. They made me feel comfortable in every step of the process and gave great after care instructions! I would absolutely recommend their services to family and friends!! Excellent results after braces as well!! 👍👍"
+        },
+        {
+          "author": "Iwona Czajak",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "This is a great place to get a beautiful smile. Doctor Peralta is a very trustworthy person and his crew are great people to work with!!!"
+        },
+        {
+          "author": "Ethan Schumacher",
+          "author_meta": "1 review·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "They are absolutely fantastic. Just got my braces taken off by David and he was totally great!! everyone who worked on my teeth was so nice including Dr. Peralta. Overall a fantastic experience and I recommend them to everyone who needs braces in the area!"
+        },
+        {
+          "author": "Leah Bullchild",
+          "author_meta": "6 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Kean Sprister",
+          "author_meta": "7 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Got clarity aligners from there. extremely happy, not just with the product but with the people who work there. They are all warm and friendly And filling out paperwork was never easier! I highly recommend."
+        },
+        {
+          "author": "Stephanie Sproul",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Dr. Peralta and his staff are Amazing. They are patient and listened to my concerns. Christy and the front office staff always tries their best to accommodate my busy schedule for my appointments. The assistants are knowledgeable and soft with their hands. I've had braces 2x due to my neglect of retainer wear.  I love this office!"
+        },
+        {
+          "author": "private none of ur bizz",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": "There needs to be a more private & easier way to write a review besides evil Google.Now for Dr. Peralta & his staff, AMAZING !!! They are true professionals. The office is immaculate. Dr. Peralta  is very knowledgeable, up to date with technology as well as knowing the write way to go for each individual patient. The staff is kind, sweet & again professional.  And guess what ?  My teeth are perfectly straight & pretty again.  Thank you to the Dr. and his Wonderful Staff. Would highly recommend."
+        },
+        {
+          "author": "Eric Cozens",
+          "author_meta": "Local Guide·1 review·94 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": null
+        },
+        {
+          "author": "Corrine Schaible",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": "Really amazing service! My results were great, the entire staff is extremely friendly and knowledgeable, and will remember you by name. I couldn't recommend enough! Just remember to follow the guidelines and take care of your chompers - you're an active participant in the process (:"
+        },
+        {
+          "author": "Lee",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": "I had a wonderful experience with Dr Peralta and his team.  Very professional and caring.  Getting braces to straighten my adult teeth was an 19 month process.  The entire office (front desk, billing, ortho technicians through to the Dr) makes the process smooth and almost enjoyable (braces aren’t easy!).  My teeth and smile are now wonderful!  I would recommend Dr Peralta and his team if you need to straighten your teeth!!!"
+        },
+        {
+          "author": "Rachel Lund",
+          "author_meta": "9 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": null
+        },
+        {
+          "author": "Dominic Garcia",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": "My teeth were “Jacked”! Especially my front bottom teeth that I was close to losing. I was referred by my dentist, Dr. Mandich (in Burien) to seek consultation from Dr. Peralta. Best thing I’ve done for my oral health! 1 year and 11 months later, my teeth have never looked better. I’m elated! Dr. Peralta is fantastic and a miracle worker. He and his skilled staff are incredibly skilled and pleasant to be treated by.Thank you,D. Garcia 🤘🏽🤩🤘🏽"
+        },
+        {
+          "author": "delilah m",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": "Everyone’s so nice and my braces feel great!!!!"
+        },
+        {
+          "author": "Lily",
+          "author_meta": "Local Guide·23 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": "I was so nervous when deciding on Ortho care, It turned out to be such an amazing experience. Dr Peralta and his team not only did a fantastic job of listening to what I wanted, they went above and beyond in every way possible to help me. I can honestly say that being a patient  here has been one of the best experiences I have had in my life. I would highly recommend Peralta Orthodontics the fantastic office staff, who became like family. Thank you again for all that you did and continue to do."
+        },
+        {
+          "author": "Ismahan Kalkal",
+          "author_meta": "2 reviews",
+          "rating": 1,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "Very bad the front desk lady was rude"
+        },
+        {
+          "author": "Theresa Hale",
+          "author_meta": "8 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "The staff is always friendly and helpful, the location is clean, and I know my son is getting the best care from Dr. Peralta and his team."
+        },
+        {
+          "author": "Eileen Burns Caparoso",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "We have two kids being treated here right now, easy to get in for appointments and there is a clear plan for treatment.  The staff is super friendly!"
+        },
+        {
+          "author": "Tasia",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "Dr peralta has helped me straighten out my teeth for a couple years now. Each time go to the office it just progresses the process of straightening my teeth. He and his team has been AMAZING 🤩 10 stars if I could"
+        },
+        {
+          "author": "Madison Miller",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "I just finished my treatment with Dr. Peralta. Everyone that works in the office is phenomenal! Every member of the staff I interacted with in the almost 2 years I’ve been a patient has been pleasant and helpful. They made going to the office and getting treatment so easy!Any time I needed to be seen outside of my routine appointments due to a band breaking, they helped squeeze me in and made sure I was never uncomfortable during the treatment.They also give out cute goodie bags when you get your braces off that has all the things you couldn’t eat during your treatment, which was such a sweet touch. It just shows how thoughtful they are!I truly cannot stress enough how awesome Dr. Peralta and his team are. I recommend them to everyone I know!"
+        },
+        {
+          "author": "Krystle Ziegler",
+          "author_meta": "13 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "Both our kids are patients here and we could not be happier with the care. The whole team is patient and loves their job! I’m so glad we chose Dr. Peralta over the other options in Burien!"
+        },
+        {
+          "author": "Dan Rice",
+          "author_meta": "Local Guide·17 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "It's uncommon for a 70+ year old to make a decision at this age to have their teeth finally aligned.  The rarity of the decision becomes more stark on your visits for adjustment and you see the surrounding chairs filled with adolescents.   Dr. Peralta's staff never leaves you feeling like an oddity.  Quite the opposite.  You always feel welcome, and treated with the utmost care.  Rossana was exceptional on my visits and kept me apprised of all needs and directions for my obligations for maintenance.  I'm grateful to my dentist for the referral.  Don't put it off as long as I did.  Dan"
+        },
+        {
+          "author": "Jessica Nguyen",
+          "author_meta": "3 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "I  usually don’t take the time to write reviews. But, Dr. Peralta (and his staff)’s care for me was so Amazing that it truly inspires this review and recommendation! : )  I am most grateful for all their genuine kindness and help throughout my 2 years of treatment.  Big shout out to Rossana, Jacqueline, Amanda, & Erin for always going above and beyond to make my life easier, especially for your kindness to expedite my retainer without any additional charge.And most of all, Thank YOU Dr. P.  for your impeccable skill and craftsmanship. I could not be more ecstatic about my new, stunning smile!"
+        },
+        {
+          "author": "Stepfon Henry",
+          "author_meta": "6 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "Dr. Peralta will hand craft you the smile of your dreams. His staff will ensure you are comfortable during your treatment. They are very knowledgable and treat you like Family. Look no further than Peralta Orthodontics. Seriously... GO make an appointment now and get the smile you never knew you needed."
+        },
+        {
+          "author": "Hanna",
+          "author_meta": "4 reviews·4 photos",
+          "rating": 1,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": null
+        },
+        {
+          "author": "rizzjohn",
+          "author_meta": "Local Guide·27 reviews·3 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "Outstanding results for this 68 year old guy. Wonderful, caring team approach. I am 110% satisfied with the outcome.  Even my regular dentist was very impressed with the outcome."
+        },
+        {
+          "author": "David Winiecki",
+          "author_meta": "Local Guide·11 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "My front teeth met end to end, making it harder to eat and causing wear. I had braces for 16 months, which was about how long Dr. Peralta told me to expect initially. My bite is much better now, kind of perfect really. I don't notice anything I would want different.Everyone is very professional, efficient, and kind, and does good work. This is a good place to go.(Note: I've done a decent job brushing and flossing as an adult, but for a couple months this past winter I flossed very little. I had some noticeable gum recession after that. It takes time to floss regularly with braces, but it's not optional. This has nothing to do with this orthodontist, just my own experience.)"
+        },
+        {
+          "author": "Gaming with HasNoName",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "They are the place to go to if you want to get braces! They have a very friendly and cheerful team of employees that lightened up the place every check up, every appointment went smooth, every Employee that worked on my teeth knew what they were doing and made no mistakes. Dr.jorge was also great and explained the process through my whole treatment,highly recommended their services.-Niyonkuru Wilson"
+        },
+        {
+          "author": "Christina",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": null
+        },
+        {
+          "author": "Dorabella Wylde-Page",
+          "author_meta": "4 reviews·3 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "Absolutely loved my time at Peralta Orthodontics! Dr. Peralta is so knowledgeable and warm, and his front desk and dental assistant staff are amazing. They always ask me how I am doing and took the time to learn personal things about me. I got my braces off today and I couldn’t be happier! I am sad to leave, but I absolutely love the end result. Dr. Peralta always addressed my concerns and the final touches will be made through my retainer.  They even gave me a little care package of everything I couldn’t eat with my braces on. So sweet! I highly recommend this facility."
+        },
+        {
+          "author": "olga Ramirez",
+          "author_meta": "2 reviews",
+          "rating": 1,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "Very disappointed with the office staff including the manager.I made an appt for a consultation, but I had a conflict in my schedule so I cancelled. (All within less than 24hrs.).I attempted to reschedule and the receptionist very rude told me I had to pay $75 for the cancellation. First of all, i am not even a patient or knew about their policies. I found this to be disturbing. The lady hang up on me when I was still speaking. I called back to speak to the manager regarding the fee, and the rudeness of the staff member. She told me that’s the rules.(How  can I be charge if I haven’t even been seen or stablished as a pt?).Her reply was that I obviously I was not a fit to see the Dr.During this engagement, I did not disrespect anyone, but simply challenged what I thought was not right.It really made me feel unwelcome. But, I guess that was their point.I don’t understand the mistreatment and lack of compassion during this time of Covid and Christmas around the corner. Sad."
+        },
+        {
+          "author": "John Parnass",
+          "author_meta": "10 reviews·5 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": null
+        },
+        {
+          "author": "Emilio Guzman",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Growing up I developed a severe class ll malocclusion, it was so bad that I was not able to close my mouth properly. On top of that, I had a lot of crowding and difficultly breathing. We visited many Orthodontists in our area but neither sounded like the right one. When my mother and I went in to Dr. Peralta’s office for a consultation, we were astonished by his presentation and his knowledge. He explained my case and described what the treatment plan would look like. Fast forward after accepting treatment with him, my smile looks the best it could ever be. I am forever grateful for his amazing work. He changed my personality completely, I went from a very shy boy to a confident young man. He changed my life forever and he is the reason why I chose to pursue a career in dentistry. To Dr. Peralta and staff, thank you very much for your amazing hard work, for never giving up on me and for delivering my new beautiful smile."
+        },
+        {
+          "author": "Kody Hines",
+          "author_meta": "1 review",
+          "rating": 1,
+          "rating_scale": 5,
+          "date": "Edited 5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "This has been one of the worst experiences I’ve ever had with any business type. They will do the same bracket over and over expecting a different result, the workers would rather talk to each other than focus on working on your mouth (I’ve been stabbed in the gums by two different people because they felt they needed to look up and talk while working).UPDATE:Front office and the actual workers don't communicate. One side tells me to come for original appointment, while the front office cancels appointment (After I took time off work) and never informed me until I arrived."
+        },
+        {
+          "author": "Louis Nguyen",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": null
+        },
+        {
+          "author": "Arling vasquez",
+          "author_meta": "Local Guide·125 reviews·153 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Great team, Great doctor."
+        },
+        {
+          "author": "Hy Ho",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": null
+        },
+        {
+          "author": "Hayley Ventoza",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "The excellent standard of care at Dr. Peralta’s office is hard to find. Dr. Peralta and his team are professional, kind, and always smiling. From my initial consultation to the day I got my braces off, I felt informed and well taken care of.I truly could not be happier with my decision to treat with Dr. Peralta. Because of Dr. Peralta, I have the beautiful smile I've always wanted. Thank you, Dr. Peralta and team!"
+        },
+        {
+          "author": "Nate Curtis",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Dr. Peralta and staff are absolutely fantastic. I could not be more happy about the job they did on my teeth. They took great care of me every time I went in for an appointment and made sure this entire process was as comfortable and efficient as possible. I can’t thank them enough and I HIGHLY recommend Dr. Peralta if you need your teeth fixed up. Incredible work."
+        },
+        {
+          "author": "Jewel Mjanger",
+          "author_meta": "6 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Dr Peralta and his staff are top notch."
+        },
+        {
+          "author": "Debbie Frydenlund",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "My mom and I both had braces with Dr. Peralta and his fabulous staff. They are professional And friendly. The place is exceptionally clean. I would highly recommend Dr Peralta But only if you want your teeth to be perfect."
+        },
+        {
+          "author": "Danielle Johnson",
+          "author_meta": "Local Guide·46 reviews·15 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Dr. Peralta and all of his staff are wonderful! They have payment options and Dr. Peralta does amazing work!"
+        },
+        {
+          "author": "Abby Fisher",
+          "author_meta": "Local Guide·37 reviews·12 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "As an adult getting braces for the first time, I was pleased to find Dr. Peralta. He took the time to educate me and answer my questions. I just had my braces removed and couldn't be happier with the results. Thank you Dr. Peralta and all the wonderful staff."
+        },
+        {
+          "author": "Delchell Mendoza",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "I would like to say with my almost 3 years of coming to see Dr. Peralta and the staff has been the great orthodontics experience for me. Every time I see the them for my appointments, they would always welcome me with their smile and always willing to help and make me feel comfortable to meet my needs. I totally recommend this place on your any orthodontics needs because they will always give the best care that you asked for. Everyone are so helpful I promised you that, and the results were amazing!  Dr Peralta is very thorough on his work and you won’t be disappointed, when you make an appointment to see him just make sure you tell him what results are you looking for to achieve and he will deliver. So if you are ready to get nicer and straighter teeth, this is the perfect place to go-Del(^-^)"
+        },
+        {
+          "author": "Pheroney Chea",
+          "author_meta": "8 reviews·12 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "I finally got my braces off today and really satisfied with the outcome of my teeth and bite. My jaw now feels like they’re align properly because before I had issue with overcrowding teeth. Dr Peralta did a great job personalizing my treatment plan. Staff are friendly and greets you at check in with a nice smile :) free coffee and tea in the waiting area! Great experience overall"
+        },
+        {
+          "author": "Eric",
+          "author_meta": "8 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "Just got my braces off last week. My teeth look great! Everyone there was friendly, and professional."
+        },
+        {
+          "author": "Roxy Granados",
+          "author_meta": "Local Guide·2 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": null
+        },
+        {
+          "author": "susann betts",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "MOST WONDERFUL STAFF AND DR PERALTA IS AMAZING."
+        },
+        {
+          "author": "Halim Atallah",
+          "author_meta": "Local Guide·18 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "2 years 9 months for them to perfect my teeth. Long time coming but very fortunate for friendly and patient staff and doctor.Great staff, great doctor, amazing experience!"
+        },
+        {
+          "author": "kate adolphsen",
+          "author_meta": "Local Guide·8 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "Great to be in the hands of a Master! The entire Peralta Orthodontics teamis fast and efficient. Scheduling is solid with no waiting. At 63, my teeth were a tangled mess, genetic risk of tooth loss and osteoporosis issues too.My oral health is better than ever. My smile and bite are perfect and strong. I can eat anything without worry."
+        },
+        {
+          "author": "Laura Hardesty",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "Love Dr. Peralta and staff. Amazing staff! Amazing service! The facilities are clean, organized, and modern. The staff worked diligently to see me when needed if a wire broke. Dr. Peralta and the staff provided excellent care for my teeth. I highly recommend Peralta Orthodontics! 5 stars!"
+        },
+        {
+          "author": "Morgan Grey",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Not only do they guarantee amazing results, but the service and the kind, friendly atmosphere of this establishment has been extremely welcoming. I recommend this to anyone looking for professional, and spectacular treatment provided by a team of good-natured people."
+        },
+        {
+          "author": "Amanda Cain",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "We love Dr. Peralta and his staff! Everyone is extremely friendly, professional,  and welcoming. They make scheduling very easy with our busy schedules! Both the Burien and West Seattle offices are exceptionally clean. Definitely would recommend Peralta Orthodontics!"
+        },
+        {
+          "author": "kaylie Johnson-Bell",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Dr.Peralta is an amazing Orthodontist! He pays close attention to detail and I could really tell how much he values his work. I can't say one of the employee's in his office is better than the other because they are all great; welcoming and comforting. I'm so glad a friend referred me to see Dr.Peralta and I will continue to refer any and everyone to see him as well. Thank you so much!"
+        },
+        {
+          "author": "Alexia Phillips",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": null
+        },
+        {
+          "author": "Saggio Ricercatore",
+          "author_meta": "Local Guide·133 reviews·2,367 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Great location with friendly, competent, accommodating staff. Dr P will collaborate with you to create the smile you deserve, he really cares about his work and makes sure every question is answered. Rosanna is very caring and gentle with adjustments. Amanda is so sunny and welcoming she makes my day. The after care is top notch and doesn’t end when the braces come off."
+        },
+        {
+          "author": "Eric Chmela",
+          "author_meta": "3 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Amazing place, great people, and outstanding job. 10/10 recommend"
+        },
+        {
+          "author": "Norma Escobar",
+          "author_meta": "9 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "I’m very happy with the service provided here! The staff is kind and friendly, and they really do take care of you during the whole process. My daughters teeth look fantastic! I absolutely recommend them:)"
+        },
+        {
+          "author": "Sofia Lewis",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Super friendly and genuine staff. Everything is so smooth even making appointments and getting in if needed to be seen before appointment. Overall loving the experience with my braces and dr Peralta as my ortho!"
+        },
+        {
+          "author": "Mireya Solis (Armani)",
+          "author_meta": "11 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Love the staff!! Super friendly, great culture in the work place and fast. I enjoy the communication and the care behind what they do and how they communicate with my Dentist. Couldn’t have asked for a better team for my teeth. I’ve been with Peralta 2 years and almost finished sad but super excited!!!"
+        },
+        {
+          "author": "Kathleen Shoemaker",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "My family has enjoyed our experiences with Dr. Peralta and he is strongly recommended by us!"
+        },
+        {
+          "author": "Bri Floyd",
+          "author_meta": "9 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "I love Dr. Peralta’s! Everything goes smoothly here and all of the staff is very professional and friendly! Amanda S. (Front desk) is my favorite! She always makes sure everyone in the waiting area is taken care of, she’s very helpful and always has a cheerful attitude. The appointments are nice and quick and you don’t have to wait very long to be seen."
+        },
+        {
+          "author": "Tami Lo",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "I was referred to Dr. Peralta by a good friend that also got her braces done there and I'm so  happy with my result. The staff is amazing, super friendly and I've actually gotten to know a few very well. I highly recommend this place, they are so prompt I never have to wait more than 5 mins to be seen. My retainer broke and they got me in the same day so I could get a new retainer a few days later. Dr. Peralta goes above and beyond to make sure I'm happy with my results and I can't thank them enough."
+        },
+        {
+          "author": "Theodore Yu",
+          "author_meta": "Local Guide·34 reviews·12 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": null
+        },
+        {
+          "author": "Dominique Gaillard",
+          "author_meta": "8 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "Dr. Peralta and his staff are amazing!  From day 1 my daughter felt comfortable and confident about her treatment which in part due to her diligence in following the program lasted 18 months.  The results are amazing!  I highly recommend Dr. Peralta Orthodontics!"
+        },
+        {
+          "author": "Sara Cloe",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "Great team of people! Really enjoying the entire experience!"
+        },
+        {
+          "author": "Ana Tagoai",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "I started seeing Dr Peralta for my treatment in 2015, and I finally got my braces off!!! Dr Peralta and the whole office staff are WONDERFUL!! From the time I started my treatment, until I finally got them off, I have not once had a negative experience. The care and professionalism they have shown, is beyond impressive. The staff is friendly, Dr Peralta always lets you know what is going on and the whole experience has just been Great!! I’ve seen other patients in there, adults and children, they are very kid friendly and make you feel comefortable. I would highly recommend Peralta Orthofontics to anyone. Walking around with a Big Smile!!"
+        },
+        {
+          "author": "John Cho",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "Finally got my braces off!! Highly recommend this place. Super friendly staff and Dr Peralta will take care of you. I’m actually going to miss coming here, always good vibes!!"
+        },
+        {
+          "author": "Carson Williams",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": null
+        },
+        {
+          "author": "Guadalupe Reynolds",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "Edited 8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "I was referred to Dr. Peralta’s office by a good friend of mine. I scheduled and appointment and went to his office, Everyone greeted me with a smile. I asked Dr. Peralta questions and shared my concerns( i had a lot of gapping in between my teeth) and him and his office were very nice and they really took their time to explained to me the process of getting braces. i never felt pressured at all. They never made me wait when showing up for my follow up appointments. I always asked questions about any procedure and they would always explained to me. They always took their time when working on my teeth and that made me feel like they really care about their job and the people they help. They always worked with my other dentist office so i could get my cleanings and other procedures done without affecting my braces and treatment. Dr. Peralta and his team are THE BEST!! i just got my braces off and the results are Amazing!! My teeth look so perfect now i cannot believe it. I am so Thankful that i found Dr. Peralta and his office!! They helped me to feel more confident giving me a beautiful smile. I always referr Dr. Peralta’s office to everyone i know.I can never THANK YOU enough Dr. Peralta and to your whole team!!I wish i could give them hundred stars : D"
+        },
+        {
+          "author": "Casey Young",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "I just got my braces taken off this morning and I am so excited for this new beautiful smile! I do have to say I am bummed I wont be going in and seeing everyone at the clinic each month. Dr. Peralta and his staff truly care for their patients and exceed at making you feel comfortable with the treatments and payment plans. Also having flexible hours made it easy to sneak in tightening's during my busy work day.  Thank you for giving me a whole new reason to smile!  -Casey Y."
+        },
+        {
+          "author": "Karmen Kirk",
+          "author_meta": "9 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "Hands down the best Dr. in the business! Dr. Peralta goes above and beyond to ensure my teeth are going to look their best. His staff exceeds my expectations every time! I can't say enough positive about Dr. Peralta and his team. I highly recommend him if you are considering braces!  He is truly the salt of the earth. His dedication to his work and integrity is beyond anything I have encountered in all areas of the medical field."
+        },
+        {
+          "author": "Armando Avila jr",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "As an adult getting braces , I was a bit scared and embarrassed. Thanks to Dr. Peralta and his great staff they took my fears away! Thank you so much for taking good care of me and giving me that perfect smile  I dreamed of!"
+        },
+        {
+          "author": "Kaley Manns",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": null
+        },
+        {
+          "author": "Hunter Samuels",
+          "author_meta": "Local Guide·17 reviews·7 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 years ago",
+          "date_approx": "2017-08-10",
+          "text": null
+        },
+        {
+          "author": "Char C",
+          "author_meta": "Local Guide·25 reviews·16 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 years ago",
+          "date_approx": "2017-08-10",
+          "text": "I was a reluctant patient.   At 64 years of age and on the verge of retirement, I wasn’t sure I wanted to go through another set of braces.  My first set had been funded by my parents when I was in my teens.  I religiously used my retainer until it broke in my 30’s and I failed to buy another.   By the time I reached my 50’s, my front teeth had started to protrude and my bottom teeth were extremely crooked making it difficult to maintain my teeth.  In addition, I needed an implant and, as most dentists will tell you, it is imperative that braces precede implants.I vacillated between just proceeding with the implant or having the braces installed and then the implant.At the recommendation of my dentist, I visited Dr. Peralta’s office and received a timeline and cost estimate.   Still not convinced, I stopped by the desk on my way out the door and spoke with the office manager, Erin.   She said, “Look, if you want your teeth to be done right, you won’t be disappointed by Dr. Peralta.   It’ll take about 18 visits and you’ll be thrilled with the results.”   I bought in.It actually took me a little longer to get through the process but I am very happy with the results.   Several things impressed me:•\tI ask a lot of questions.   There was always time for them.•\tDr. Peralta takes all of his own photo shots of the mouth.   I asked “Why?”   He responded that he knows exactly what he wants!   This is typical of his whole approach.•\tExpect perfection for your teeth.   He does.  When I suggested that he needed to introduce the words “Good enough” into his vocabulary, the concept was promptly dismissed. :)•\tRosanna and Stephanie are two terrific techs!  They are both extremely attentive and assure the adjustments are as painless as possible.•\tThis office has a host of up-to-date equipment.  The atmosphere is quite chic.   It's obvious that Dr. Peralta invests in his business…and his patients.•\tDr. Peralta is a good guy.   He’s exceptionally bright, personable, and down-to-earth.   He’s got a dry sense of humor that makes the office visit fun.To sum it up, I’m going to miss my regular visits and the people that made my transformation so much better than the first experience forty-five years ago.   Good people!   Great results!"
+        },
+        {
+          "author": "Denali Norton",
+          "author_meta": "1 review",
+          "rating": 4,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": null
+        },
+        {
+          "author": "Arshdeep Gill",
+          "author_meta": "Local Guide·12 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "Love This Place, Thank You For The Amazing Smile. Can't Get Over About How Everyone was/is so kind."
+        },
+        {
+          "author": "liz Greiner",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "My daughter Jade was treated so kind and got the best experience. We are going to miss this great team !"
+        },
+        {
+          "author": "Cathy Paddon",
+          "author_meta": "6 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "I can't say enough about  Dr Peralta and his staff. Everyone is friendly and professional. Erin is very creative in meeting my crazy scheduling needs. They are always sensitive to my sons needs and were especially accommodating after he had a long hospitalization and was less able to tolerate some of the procedures. They went the extra mile to see that he got what he needed in the least uncomfortable way possible. Definitely would recommend this practice 100%"
+        },
+        {
+          "author": "Elizabeth Stanaway",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "Dr.Peralta and the entire staff are fantastic. They're friendly, professional, honest, prompt, and happily worked with my schedule. Going into the office once a month wasn't a chore at all, and I am incredibly happy with the final result!"
+        },
+        {
+          "author": "Holly Rose Hoyla",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "I am very satisfied with the work and care Dr. Peralta and his staff provided me to have a better, life-changing smile! I was always so conscious about how my teeth looked, but Dr. Peralta and his staff made the transition to perfection so easy! They are all very welcoming and knowledgeable and they have a pleasant soothing ambiance! They explain things well before performing any procedures and they make sure you fully understand what to do next. I recommend Dr. Peralta. He is smart and sincere!"
+        },
+        {
+          "author": "Temple Robinson",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "Dr. Peralta is the truth!!! I visited with three different orthodontic doctors. All the three told me I would need jaw surgery to get braces. I did not want to subject myself to unnecessary surgery so I decided to forgo braces. Years later at the nail salon, I met one of the ladies that works in Dr. Peralta's office. She encouraged me to set up an appointment and I followed through. I was greeted with warmth, enthusiasm, and care the first time I entered the office. It is always a pleasant experience as a patient. They treat you like family. At the consultation, Dr. Peralta looked at my bite and said we can try to correct your bite without surgery. About 70% of odds were in our favor.Success!!! No surgery!!! After 2 years and 3 months I am 400% satisfied with his services. He knows what he is doing.  The other staff also know what they are doing. No guinea pig experience here.DR. PERALTA IS THE ABSOLUTE BEST AND IS HIGHLY RECOMMENDED!!!!!FYI-The office is rather chic.  It is well decorated, everyone dresses well, they have cute uniforms, coiffed hair, beautiful group pictures, and they play good music. I love this place!"
+        },
+        {
+          "author": "J Bennett",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "If you want an orthodontist that has incredible attention to detail, honest critiques and suggestions, cutting edge technology and works with great staff in a comfortable clean office then Dr Peralta is your guy.  I have taken all three of my kids there the past 5 years and now they have fabulous smiles for life thanks to Peralta Orthodontics"
+        },
+        {
+          "author": "Kayla Siler",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "I had a great experience with Dr.Peralta & his staff, they do amazing work and have a great environment."
+        },
+        {
+          "author": "Luisa Sproul",
+          "author_meta": "3 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "I would definitely recommend Dr.Jorge Peralta to be your Orthodontics-He is the best one that you can possibly have to get your treatment done!.....Very professional,very patient,very talented and very cool guy to all his staff.....again thank you very much DR.Jorge Peralta........I'm very satisfied with the result of my beautiful teeth and lovely smile"
+        },
+        {
+          "author": "Jayden Wong",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "The staff is very friendly and helpful, they will do their best to give their patients most satisfaction. I have just had my braces removed and my teeth are aligning very well thanks to the people at the Orthodontics of Burien. The orthodontists here are very skilled and don't cause much pain, if any pain at all to the patient. I highly recommend the Orthodontics of Burien to whoever need an amazing smile!"
+        },
+        {
+          "author": "Maisie Cain (LegendofMaisie)",
+          "author_meta": "Local Guide·16 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "Dr Peralta and the entirety of the staff were absolutely lovely and fantastic. I loved the results of my braces as well the care that was provided for me."
+        },
+        {
+          "author": "Julia Sorensen",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "I couldn't be more pleased with my experience at Dr. Peralta's office! From the friendly and helpful staff to the beautiful results from my braces. I would recommend Dr. Peralta to everyone!"
+        },
+        {
+          "author": "Robin P",
+          "author_meta": "Local Guide·14 reviews·22 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "I have enjoyed my entire experience here. From the great office staff to the wonderful people working with me on my braces throughout the past two plus years I couldn't have made a better choice. It was well worth the time and money, I would pick Dr. Peralta over and over again. He cares so much for each and every patent and you are always helped anytime you need it by everyone. They are apart of my family and I will be sad to not see them on a regular basis!"
+        },
+        {
+          "author": "Declan O'Ferrall",
+          "author_meta": "Local Guide·9 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "5 Stars because all employees were friendly and speedy and precise about there jobs, and i have much better teeth now."
+        },
+        {
+          "author": "Phong Le",
+          "author_meta": "Local Guide·52 reviews·3 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "It was a wonderful experience. Dr. Peralta and the office are so kind and they make/made me feel extremely comfortable. I had a bad underbite/crossbite which they helped fix, and now I have a smile I am proud of. I highly recommend this place. My life and confidence has improved exponentially :)"
+        },
+        {
+          "author": "Edward Lao",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "15 months and my braces are finally off.  I couldn't be happier with the results.  At 32 years old, it wasn't something I wanted to deal with but decided to go for it the same day I had my consultation with them.  It was worth every penny.  Dr. Peralta and his staff are very professional and made every visit a easy one, the attention to detail was amazing.  They even made arrangements to finish my braces a month in advance because I would be participating in a wedding in early July.  Appointment scheduling was never a problem, even when I had changes to my schedule.  They made handling my insurance headache free.  I highly recommend Orthodontics of Burien."
+        },
+        {
+          "author": "Angela Quach",
+          "author_meta": "9 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "I went to Dr. Peralta for braces for my first three years of high school and just got them off a month ago. Most important tip is always wear your rubber bands or you will pay FOREVER; having braces takes more than just the Doctor, you have to get involved too! Burien Orthodontics is very organized and always make sure you're set up for the next time you'll be in. I have always gotten in on time and if not, then earlier! The team is always really helpful and nice, last Halloween Rossana wore a pickle costume; it was perfect. There is almost no schedule that they cannot accommodate to, and Erin is amazing at managing time and fitting people in, (I'm a part time receptionist and a full time college student.) I've had a lot of close friends and relatives who have gotten their braces here and I recommend this place to anybody who is looking for a great place to spend some time with."
+        },
+        {
+          "author": "Sava Hruska",
+          "author_meta": "Local Guide·23 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "The best"
+        },
+        {
+          "author": "Cheryl Merritt",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "The Office Staff and Orthodontics Staff was great and flexible with appointments.  Did not have to take time out of school.  Felt like home and saw many people we knew while we were in the office.  Appt time were on schedule and didn't have to wait to get in, most times got in as we walked in the front door."
+        },
+        {
+          "author": "Leslie Mills",
+          "author_meta": "4 reviews·7 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "When my Dentist suggest that I see Dr. Peralta about braces, I was mortified. As a 51 year old professional female, I was worried about being the oldest lady known-to-man with braces. Dr. P et al put my mind at ease immediately & explained that a significant portion of his client-base was over 40 or experiencing orthodontic relapse. Less than a month later, my mouth was full of an affordable combination of metal & ceramic brackets. My experience has been exemplary; from the fastidious professional staff, to the detailed education & explanation of services. Rosanna and Stephanie are consummate, yet witty professionals. Dr. P is present, a composer of 'music in your mouth', if you will, and a genius at choreographing each tooth to movie into place.  He is the science behind perfection in your mouth. Erin is the wind-beneath-their-wings with her charming & intellectual demeanor. She dot's the I's and crosses the T's and balances good care with a professional foundation. Together, Dr. Peralta's group is like no other, and we have been thrilled with their service. Bravo!"
+        },
+        {
+          "author": "Jason Muldoon",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "As someone that has elected to have orthodontics treatment later in life, I am happy with my decision to have chosen Orthodontics of Burien.  They have showed great flexibility with treatment, while still maintaining a high level of performance.  I have a child that will need orthodontics, and could not imagine going anywhere else to get this service done.Thank you Orthodontics of Burien."
+        },
+        {
+          "author": "Sekou Spencer",
+          "author_meta": "6 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "Dr. Peralta, and his wonderful staff, took the fear out of visiting a \"dentist/orthodontist\" and brought a smiling, comforting, professional environment.  Our daughter was super pleased with her \"new smile\" and we loved the experience so much, my wife is getting braces in February.  I highly recommend Dr. Peralta and his staff."
+        },
+        {
+          "author": "Jake Hecla",
+          "author_meta": "12 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "The staff are pleasant and extremely knowledgeable. When any minor glitches arose (cracked retainers, detached brackets) they went out of their way to fit me into the schedule and fix the problems extremely quickly. I have recommended this office to friends and family, and will continue to do so."
+        },
+        {
+          "author": "Jacob O",
+          "author_meta": "6 reviews·3 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": null
+        },
+        {
+          "author": "Laura Sorensen",
+          "author_meta": "Local Guide·18 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "Dr. Peralta is an excellent orthodontist! I have been in braces for about a year now and have been impressed with the progress we have made so far. My case is complex and he has seemed to be on top of every step. I have recommend him to many of my friends and family. -Laura S."
+        },
+        {
+          "author": "Brando Contreras-Ortiz",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "The staff here is amazing! Dr. Peralta and his staff really make sure I felt at comfortable throughout the entire process. They also went out of their way to make the appointments around my schedule, and as a college student it was wonderful. Both my brother and sister also got their braces here and I can say that we are all very happy with the results. This is the place to go, you won't be disappointed!"
+        },
+        {
+          "author": "Cheryl B",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 years ago",
+          "date_approx": "2015-08-10",
+          "text": "Great care from everyone in the office .... and results have been terrific. My smile has never looked so good. Dr. Peralta took the time up front to explain the process and set expectation for length of treatment and results. I can recommend him and his practice with no hesitation."
+        },
+        {
+          "author": "Mindy Hart",
+          "author_meta": "Local Guide·24 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "12 years ago",
+          "date_approx": "2014-08-10",
+          "text": "In one word out experience with Dr. Peralta has been outstanding!  We thoroughly enjoy coming for our visits.  The customer service is top notch, Dr. Peralta and crew are very caring with our best interest at hand.  I'm so glad I was referred and have since referred others!!!"
+        },
+        {
+          "author": "Henry Wend",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "12 years ago",
+          "date_approx": "2014-08-10",
+          "text": "I had my braces on for 3 years, and whenever I had any troubles, they attended to whatever the problem was quickly and effectively. Easy five star rating, I've recommended a bunch of my friends already."
+        },
+        {
+          "author": "Amber Livingston",
+          "author_meta": "Local Guide·28 reviews·7 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "12 years ago",
+          "date_approx": "2014-08-10",
+          "text": "Dr Peralta is very professional and we ALWAYS get in right at our appointment time. We have never had to sit and wait past our actual time. They have a very friendly staff and my son feels comfortable there (despite having an uncomfortable procedure). The office is also very clean and very organized."
+        },
+        {
+          "author": "Justine Salgatar",
+          "author_meta": "9 reviews·5 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "12 years ago",
+          "date_approx": "2014-08-10",
+          "text": "I enjoy my time as I'm also become treated. The care I get here is amazing, and the staff is warm and welcoming. The location that this amazing place is placed conveniently to where I can walk off to various shops and restaurants before my appointment begins. Each time I come in, I get that kind feeling and I know I'm going to get wonderful care from amazing people! I recommend this place to anyone that needs braces and that, from my experience, anyone will feel satisfied!Great job, everyone!"
+        },
+        {
+          "author": "Blythe Simmons",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "12 years ago",
+          "date_approx": "2014-08-10",
+          "text": "I want to share our experience as the parent of two patients having braces simultaneously. Both of my children needed orthodontic help. Two kids with different personalities and different dental issues. Dr. Peralta gave us terrific information regarding each course of treatment.  What to expect in the way of a time frame, what to watch for as the parent and how to help the patient do their homecare. We were always encouraged to ask questions and enjoy the process of this great  dental transformation. All of the staff was terrific. Erin was so accommodating with our scheduling and billing was detailed and easy to understand. Rosanna (Dr. P's assistant) made it fun to pick out new colors for the bands each month. My  13 yr. old daughter planned her appointments with her best friend each month. We have been thrilled. Beautiful teeth and no complaints. You can not find a more friendly, professional group. I am planning to be the next patient in our family."
+        },
+        {
+          "author": "Harrison Hause",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "12 years ago",
+          "date_approx": "2014-08-10",
+          "text": "My teeth are fixed and I am happy with the results! They made it easy to have braces and always make appointments great!"
+        },
+        {
+          "author": "Jamie Scatena",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "12 years ago",
+          "date_approx": "2014-08-10",
+          "text": "Embarking on my second set of braces was not something I was looking forward to as an adult. Add the complication of a genetically missing tooth and dental implant surgery.....I was really dreading this experience.That said, I am so pleased I found Dr. Peralta and his capable staff. Everyone has been professional, patient, kind and absolutely detail-oriented. Dr. Peralta has been highly communicative with my other dental professionals and I felt and continue to feel I am in very good hands.Dr. Peralta has a great sense of humor, explains things well and is meticulous. I appreciate that I see the same people each time I go in. In the beginning, it was all very reassuring and now I just plain enjoy seeing everyone!I am glad I finally made the decision to get orthodontic treatment as an adult and that Dr. Peralta is my orthodontist."
+        },
+        {
+          "author": "Zach Ehrmantrout",
+          "author_meta": "7 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "12 years ago",
+          "date_approx": "2014-08-10",
+          "text": "I have known Dr Jorge Peralta since orthodontic residency training in Colorado back in 2004.  He is an exceptionally gifted practitioner with a keen eye for detail.  He is extremely caring, trustworthy, and ethical.  I would refer any of my patients or family members who moved away from my area of practice to him without hesitation."
+        },
+        {
+          "author": "Daniel Loos",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "13 years ago",
+          "date_approx": "2013-08-10",
+          "text": "I am 58 years old and last week I finished my treatment of wearing braces. I am so happy and thrilled with the beautiful, stunning result. I am a perfectionist and so is Dr. Peralta in his skill and artistry. Dr. Peralta met my highest expectations and I will recommend him to all my friends and to you without reservation.I also can’t say enough positive remarks about Dr. Peralta’s wonderful staff. The staff members are truly first rate: welcoming, cheery, efficient and responsive!Thank you Dr. Peralta and all the staff of Orthodontics of Burien for your outstanding care and my beautiful smile,Dan Loos"
+        },
+        {
+          "author": "Matthew Pavlovich",
+          "author_meta": "Local Guide·18 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "Edited 13 years ago",
+          "date_approx": "2013-08-10",
+          "text": "was always told that I would needed jaw surgery to correct the look and position of my teeth.  I hate the idea of surgery.  After an initial examination and careful attention to the details, Dr. Peralta decided to treat my teeth without surgery.  Fast forward one year, and I cannot believe how great my teeth look and how well my bite functions!  Everyone I reconnect with tells me how great my teeth look when I smile.  Thanks Dr. P!"
+        }
+      ]
+    },
+    "jorge peralta dds ps (west seattle)": {
+      "note": "jorge peralta dds ps",
+      "business_searched": "Peralta Orthodontics West Seattle California Ave SW",
+      "note_name_differs": true,
+      "location": "3916 California Ave SW, Seattle",
+      "stated_total": 242,
+      "sorts_used": [
+        "Most relevant"
+      ],
+      "harvested": "2026-08-31",
+      "harvested_from": "https://www.google.com/search?q=Peralta+Orthodontics+West+Seattle+California+Ave+SW+reviews#lrd=0x549040f9138f7cdf:0x80d4287428dad89f,1,,,,",
+      "review_count": 242,
+      "reviews": [
+        {
+          "author": "Karen Hogan",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": "We had a wonderful experience with Peralta Orthodontics. The true proof of how well everything went was right after we arrived home from getting her braces off. She walked into the house, looked closely at her teeth, and yelled, “I’m gonna be a teeth smiler now!” As a parent, that moment said everything.Everyone in the office was kind, professional, and welcoming. They always did their best to accommodate our schedule when they could, and we felt well cared for throughout the entire process.My daughter’s favorite person at the practice was David, aka “Figs,” who always made her feel comfortable and at ease.Thank you to the whole team for giving her a smile she’s proud to show off!"
+        },
+        {
+          "author": "Kay",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 months ago",
+          "date_approx": "2026-05-11",
+          "text": "One of our two daughters just finished treatment and the result is amazing! Our experience has been great with Dr.Peralta and his staff. They are super friendly, accommodating and responsive.  The front desk always makes me feel welcome.  I love their beautifully designed office too."
+        },
+        {
+          "author": "Ben Murdock",
+          "author_meta": "9 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": "After nearly 2 years here, I can honestly say Dr. Peralta and his staff are truly one of a kind!! David became my go-to technician, and his attention to detail was so very appreciated; we had a blast throughout the process. Somehow they made braces a fun experience 😁 I never thought I’d say this,  but I will miss coming to these ortho appts!! Highly recommend this team!"
+        },
+        {
+          "author": "Amal Topf",
+          "author_meta": "4 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": "Very happy with the results ! Dr Peralta did both my son's braces and my Invisalign treatment. He is a perfectionist and all of his staff are professional and kind. Highly recommend Peralta's practice !"
+        },
+        {
+          "author": "Robin Maxwell",
+          "author_meta": "6 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "My daughter had traditional braces with Peralta and I am just finishing up with my Invisalign with them. Very happy with the results of each and appreciate the attention to detail, flexibility and demeanor of the entire staff. My youngest will also come here when the time comes. Great folks, great teeth!"
+        },
+        {
+          "author": "Vince Aoki",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 months ago",
+          "date_approx": "2026-04-10",
+          "text": "Both of our daughters went to Dr Peralta and we had a wonderful experience.  Their ortho work went really well with outstanding outcomes and no major issues along the way.   The staff weee always very friendly helpful and responsive to questions and calls.  We highly recommend Dr Peralta and his team!"
+        },
+        {
+          "author": "Yasmin Cruz",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 months ago",
+          "date_approx": "2026-01-09",
+          "text": "Dr. Peralta and the team are amazing with their customer service! Very welcoming, flexible and apportionments are very friendly! My orthodontist treatment was very successful and done in a timely manner (only 18 months). I am super happy with my results and always recommending my friends and family to their office (:"
+        },
+        {
+          "author": "Cassidy",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 weeks ago",
+          "date_approx": "2026-07-20",
+          "text": "They did such a great job and I am beyond happy with the results. The staff are so kind and helpful. Dr. Peralta and team are the best!"
+        },
+        {
+          "author": "Kristin Fletcher",
+          "author_meta": "8 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": "We had an excellent experience with Peralta Orthodontics, both with Dr. Peralta himself and the whole team. Everyone was professional and friendly, and we felt like they had our daughter’s best outcome in mind throughout her treatment."
+        },
+        {
+          "author": "Jarren",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 months ago",
+          "date_approx": "2026-04-10",
+          "text": "10/10 would definitely recommend! Peralta and team did a great job on my braces. Teeth look amazing. Very good attention to detail and such a friendly staff."
+        },
+        {
+          "author": "shannon peck",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 months ago",
+          "date_approx": "2026-02-08",
+          "text": "Dr. Peralta and staff are so amazing!! They have taken care of our entire family with the best results! Everyone is so compassionate from the moment you walk in the door to walking out of the door. I would highly recommend going here for any of your ortho needs!"
+        },
+        {
+          "author": "Paul Bugala",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 months ago",
+          "date_approx": "2026-04-10",
+          "text": "Dr. Peralta and his staff provided outstanding service at a great value for both of our kids. Special kudos to the assistants and office staff for their kindness and thoughtfulness. Highly recommended!"
+        },
+        {
+          "author": "Kirsten Dahlander",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": "Dr Peralta and his team did an amazing job with our daughter’s teeth. They were all so friendly, helpful and encouraging."
+        },
+        {
+          "author": "Emiliano Gonzalez",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 months ago",
+          "date_approx": "2026-05-11",
+          "text": "Just got my braces off after 4 years. Had a great experience and was very straightforward and kind the whole time, very professional and the staff is very friendly and ive gotten closer with them over the years definitely a great orthodontist"
+        },
+        {
+          "author": "Aly Dahilig",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 months ago",
+          "date_approx": "2026-04-10",
+          "text": "Always had an amazing experience at each of my appointments! Felt that I was truly cared for :) Would definitely recommend if you are looking to get orthodontic work done!"
+        },
+        {
+          "author": "Linh Ngo",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 months ago",
+          "date_approx": "2026-01-09",
+          "text": "Convenient location to Madison Middle School. Kind and professional staff who will have you in and out of the appointment in a jiffy. Our daughter did her part and they were diligent in there’s to have her stay on track with her 2 year plan. Had her braces off today and they look great!"
+        },
+        {
+          "author": "Nathaniel Harrison",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "Absolutely loved the team at Peralta!  Their customer service was above and beyond.  I really appreciated their skill, professionalism and personality.  Whenever I needed to make a last minute appointment they fit me in, which meant a lot.  Dr. Peralta’s attention to detail and pride he took in his work showed in the final product.  Couldn’t have been happier with my experience with them.  Thank you team Peralta!"
+        },
+        {
+          "author": "Magdalena Escobar",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I’ve had an amazing experience with Doctor Peralta and his entire team! From the very first consultation, the entire team has been welcoming, professional, and incredibly knowledgeable. They took the time to explain every step of my treatment plan and made sure I felt comfortable and informed throughout the process. The office is clean, modern, and runs on time, which I really appreciate. Most importantly, I’m thrilled with my results—my smile has never looked better! I highly recommend them to anyone looking for top-quality."
+        },
+        {
+          "author": "alanna",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": "got my braces off best results i can definitely see the difference from before they are so nice to their patients."
+        },
+        {
+          "author": "K B",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I had orthodontic braces for both of my sons, and we received great service from a wonderful team. My family has been seeing Dr. Peralta for over a decade, and they have never disappointed us. The level of professionalism, knowledge, and talent is truly exceptional!"
+        },
+        {
+          "author": "Amy Cooper",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 months ago",
+          "date_approx": "2025-09-09",
+          "text": "My entire family (save for me, but I’m next!) has gone through getting braces at Dr. Peralta’s office (husband, teen son and daughter.) We have nothing but rave reviews to give to the Doctor and all of the assistants who have offered such kind and thorough care over the last 7 years. Highly recommend!"
+        },
+        {
+          "author": "Marsha Lubetkin",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "I came in with my 3-year-old retainers thinking I might need a replacement. But I was told they were in great shape & no replacement needed. They cleaned my retainers & they look like new!  Very friendly, nice, helpful staff."
+        },
+        {
+          "author": "Adriana Cruz",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "From the service provided to the quality of care, I love, love, love the team and Dr. Peralta. Such friendly and overall positive atmosphere from the moment you walk in to the moment you schedule your next appointment because it’s not just one visit, you’ll be returning for more visits. Highly recommend them. When my braces came off, I just felt so much positivity and just overall complemented by the staff!!!!"
+        },
+        {
+          "author": "K T",
+          "author_meta": "7 reviews·4 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Dr. Peralta and his staff are amazing. They are all very professional and friendly. What I appreciate the most as a mom and full time working professional is how they respect my time. I get there at my appointment time and I am taken back immediately. They are punctual, they are efficient, and are great at sending out reminder messages.  The result I’ve gotten from getting braces from Dr. Peralta is more than I could have imagined. I am extremely pleased with how great my teeth look and the quality of care I received as a patient."
+        },
+        {
+          "author": "Brittany Cohen",
+          "author_meta": "6 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "My son recently got his braces off and we are extremely happy with the results. The entire experience (2 years) with Dr. Peralta and his team has been fantastic. They have been efficient, organized, kind, thorough, and clean. We couldn’t ask for more.I will be recommending Dr. Peralta to all my friends and will be returning with our younger son in the near future."
+        },
+        {
+          "author": "Kyle Oman",
+          "author_meta": "Local Guide·35 reviews·3 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Braces are a big investment and a lot of work, but somehow, Dr. Peralta and his team (huge shoutout to David, who was the highlight of every visit) made the process feel approachable and easy. I’m incredibly satisfied with my smile and bite and fully recommend this orthodontist."
+        },
+        {
+          "author": "Sommer Ueda",
+          "author_meta": "3 reviews·6 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I couldn’t be happier with my experience at Peralta Orthodontics, Dr. Peralta, and his entire team! We started with a clear timeline and realistic goals for my orthodontic journey, and I’m thrilled to say the results exceeded all my expectations. By staying consistent with my rubber bands, I even managed to finish three months ahead of schedule!Dr. Peralta and his entire team are warm, accommodating, and truly make you feel valued at every visit. My only regrets are not getting braces sooner and not dressing up for my 'before' photo—I got to see that picture at every appointment!If you’re considering orthodontic treatment, I highly recommend Dr. Peralta. Not only did he deliver fantastic results, but he and his team made every step of the process enjoyable and supportive."
+        },
+        {
+          "author": "Natalia Boffi Minoprio",
+          "author_meta": "Local Guide·15 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I couldn’t be happier with the results of my orthodontic treatment at Peralta Orthodontics! Dr. Peralta and the entire team were always professional, attentive, and genuinely friendly. They made the whole process comfortable, and I felt well-cared-for at each visit.As a Health Coach, my only suggestion for improvement would be the end-of-treatment gift bag. While it's a lovely gesture, some of the snacks included might not be the best choice for our dental and overall health. I appreciated the healthier options like the nuts and popcorn without additives, sugar, or artificial colors, but perhaps curating a bag that fully aligns with promoting dental wellness would be even more impactful.Thank you, Dr. Peralta and team, for an amazing experience and a smile I’m truly proud of!"
+        },
+        {
+          "author": "Andrea Castillo-Ramos",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I have loved my experience with Dr peralta and everyone who works here. They are very friendly and professional. David made sure my teeth looked fabulous. I recommend them 100%"
+        },
+        {
+          "author": "Lina M",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I have had a great experience with the care at this place. I came in with issues of jaw pain and trouble with my bite but they have definitely been fixed! There are many time options available which has been convenient with my late work schedule. All staff have been professional and friendly! I am very satisfied with the end result of treatment."
+        },
+        {
+          "author": "Erica Queen",
+          "author_meta": "5 reviews·8 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "My experience with Dr. Peralta and the entire office has been absolutely top notch. As an adult patient who has spent most of my treatment traveling abroad, the team was so accommodating of my schedule and individual needs. On top of this, my teeth look INCREDIBLE by the end of treatment. I’ve lived my whole life with snaggle teeth and an a lopsided profile. My smile is so much more balanced and healthy looking. I cannot recommend them highly enough. You’re in good hands when you come to Dr. Peralta!! ❤️❤️❤️"
+        },
+        {
+          "author": "Shaw Wakayama",
+          "author_meta": "Local Guide·14 reviews·4 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Highly recommend! Finally decided to get braces as an adult. Was told it would take 18-24 months and it was done right at 18. Price was reasonable and the experience was pleasant - I was expecting it to be worse but it was only uncomfortable for the first month or so. The staff there is fantastic and are great to interact with!"
+        },
+        {
+          "author": "Sawyer Pouliot",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "The crew at Peralta is fantastic! They are patient and careful, always run appointments on time, and are so good with kids. Our case (child) was not the easiest and the Peralta team stuck with us through the whole process. Highly recommend!"
+        },
+        {
+          "author": "Tama Gerde",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "We have had a great experience with Peralta Orthodontics. Dr Peralta is a great Orthodontist, two of my boys have had great results with his program. His staff is awesome and friendly. I would highly recommend Peralta Orthodontics, they also have two locations for your convenience."
+        },
+        {
+          "author": "Taytum Colman-Brusa",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I had an awesome experience at this wonderful place! David had taken my braces off and they look stunning!! A huge thanks to Doctor Peralta, David, and the whole staff! My brothers and I have all gone here and have had amazing treatment. The staff is so kind and friendly! Again, huge thanks and appreciation towards this place❤️"
+        },
+        {
+          "author": "Reda Thach",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "We’ve worked with Dr. Peralta and team this past year while my 9yo had her braces/expanders on. We just got them off. This team made the process very easy. Scheduling was always easy. Many times was able to get in early morning, before school and work. Great team."
+        },
+        {
+          "author": "Ari Janus",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": "Thanks dr Peralta! My teeth look amazing I am so sorry for biting your finger😭❤️"
+        },
+        {
+          "author": "Joy Johnson Lacher",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Front office staff is always accommodating with scheduling netween 2 locations. We've had a truly great experience working with Dr Peralta and his assistants the past few years. My daughter's teeth look beautiful and braces removal by David was efficient, very friendly. 10/10⭐️"
+        },
+        {
+          "author": "Beth Heritage",
+          "author_meta": "3 reviews",
+          "rating": 1,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Braces ruined my child’s teeth & after the fact Peralta says their oral hygiene was “fair” before braces. My child went to Peralta for 2 years starting when they were 12, within 6 months they had several cavities & after a year & 1/2 (& 4 fillings) requested removal because our kid couldn’t/ wouldn’t properly brush with their braces on. Peralta resisted & refused to remove them for 6 more months.Now they need 15 more fillings. When I reached out to Peralta to see if he had anything to say in regards to the fact that his “services” have left my child’s teeth in worse shape than before, he refused to accept any responsibility for his part in this failure. Our kid was too immature to care for their teeth with braces & as a professional Peralta should have counsel us to wait. His only response was that our child’s oral hygiene was fair & therefore he did nothing wrong.Learn from our family’s costly mistake- DO NOT GET YOUR CHILD BRACES unless their oral hygiene is perfect and DO NOT GO TO PERALTA."
+        },
+        {
+          "author": "laura duran",
+          "author_meta": "6 reviews·11 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "My braces have come off and I couldn't be more happy with my teeth! The only downside is not spending time with the wonderful staff there once a week. I absolutely LOVE Dr. Peralta and his entire staff. When you are there, you are treated like you are their only patient and their best friend!Ive had braces on from age 46-49 and it was STILL a great experience. A LOT of work had to be done at my old age and they handled it with knowledge and professionalism and left me with a great set of choppers.I HIGHLY recommend Peralta Orthodontics no matter what age you are."
+        },
+        {
+          "author": "Blythe Simmons",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 years ago",
+          "date_approx": "2017-08-10",
+          "text": "What a great experience my family has had with Peralta Orthodontics. I am the third member of my family to have treatment. After watching the process with both of my children, there was no doubt that I would also want a beautiful smile with awesome, perfectly aligned teeth. I was thrilled to be the patient. The staff is so professional, the process was explained well ahead so I always knew what to expect. My monthly appointments were always easy because Dr. Peralta's team would proactively call me if I needed to schedule and I had forgotten to do so.Thanks to Dr Peralta,  Erin, Stephanie and Rosanna for such excellent service. My (our) smiles look fantastic and I feel like a movie star!"
+        },
+        {
+          "author": "Kimberly Graves",
+          "author_meta": "Local Guide·17 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Love Dr Peralta and his team.  My daughters teeth were really bad and now they are perfect so when it came time for me to get braces I knew where to go! So happy I did. My braces came off today and I could not be happier with the results."
+        },
+        {
+          "author": "Marianne Petitt Chandler",
+          "author_meta": "Local Guide·71 reviews·18 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "I knew my daughter needed braces, but when we were turned off by the first orthodontist place I kinda panicked and called my neighbor for a referral. She told me she was really happy with Dr Peralta and her kids really liked him.That was it for me, a glowing referral from a fellow mom!!! I called immediately, they got us in right away and she’s in braces by the end of the third week of the school year.Honestly, the prices seem good, and Dr Peralta and his staff are great at communicating. It’s important that you feel comfortable with your provider, and we definitely feel comfortable here!!"
+        },
+        {
+          "author": "Courtney",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "I’ve never thought that I’d be able to ever get braces but Dr. Peralta has made it into a reality, and just for that I will always thank him! He’s very professional, talented, respectful, nice, just an overall ideal person that you’d want as your orthodontist! Also his staff is super friendly and the whole environment in the office is just pleasant! I can’t wait to finish treatment to see the final results but I would definitely recommend him to anyone who’s looking for a trustworthy orthodontist"
+        },
+        {
+          "author": "Winston Dideon",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I have been going to Dr. Peralta’s for my whole life now and I just finished my braces. Everyone is very professional and they know what they are doing. I am very impressed with the work they have done on my teeth. I would recommend them to anyone.- Winston D"
+        },
+        {
+          "author": "jamie silva",
+          "author_meta": "8 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 years ago",
+          "date_approx": "2017-08-10",
+          "text": "Dr. Peralta, and his staff provide exceptional service! I'm so happy to have come here. His staff are all very sweet and professional and work with your schedule, I went to UW and they also fit me in with my crazy schedule, I never had an issue. My teeth look great, I get so many compliments. I had braces before about 5 years ago and didn't like the way that my teeth turned out after having them on the first time but I came in here and explained my concerns to Dr. Peralta and needless to say I wish I would have came here the first time, but I lived out of state before. Come here, you will not regret it. I would recommend him to all my friends. Dr.Jorge Peralta is very patient, and very dedicated to his patients."
+        },
+        {
+          "author": "Angela Marrie",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "I can't stop smiling. :) I just got my braces off after two years of treatment and it was so so worth it. I LOVE THE OUTCOME. My smile is bigger and brighter and the compliments are pouring in. Dr. Peralta and team are amazing. They make you feel comfortable and confident throughout the entire process. Dr. Peralto makes sure you are happy with the outcome and discusses and addresses any concerns. My dentist highly recommended Dr. Peralta and I can see why. I can't recommend him enough. Many many THANKS to Dr. Peralta and his amazing team. :)"
+        },
+        {
+          "author": "Alex Katz",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": "Dr. Peralta and team fixed my alignment. Easy every step of the way."
+        },
+        {
+          "author": "tammy bare",
+          "author_meta": "11 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "I was recently referred to Dr. Peralta's office to explore braces.....as someone in my (ahem) mid-50's, that was not the most exciting idea.....and while I still wish I had worn them when I was 10, the staff at Peralta Ortho made the experience easy and hassle free.  The office setting is very pleasant, Dr. Peralta takes care with his patients, and his staff works well as a team.  They will also coordinate follow up visits with my regular dentist since the wires have to be removed prior to regular dental cleanings.  So while eating will be less enjoyable for the next 18 months, I'm confident that I'm in good hands and will have amazingly beautiful and perfectly aligned teeth when the metal comes out!"
+        },
+        {
+          "author": "Secil Franke-Welch",
+          "author_meta": "Local Guide·12 reviews·4 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Dr. Peralta and his team are very professional and friendly. Both my daughter and myself are very happy with the care we received. Highly recommend if you are looking to get a orthodontic care in West Seattle!"
+        },
+        {
+          "author": "Melissa Misoda",
+          "author_meta": "7 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "Great experience! As an adult I was not thrilled with the thought of braces, but Dr. Peralta and his staff made it easy every step of the way! Throughout my time I never had to wait, the process was thoroughly explained, and if I needed a quick appointment they got me right in. The later Wednesday hours worked well with my work schedule, and I even got them off earlier than planned! So glad to now have a perfect smile!"
+        },
+        {
+          "author": "Rachel Roque Mina",
+          "author_meta": "Local Guide·47 reviews·39 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "I had very crooked teeth with a lot of crowding. I've always wanted to straighten my teeth and I'm ecstatic about the results. Dr Peralta is a serious craftsman. I can definitely understand why he was highly recommended by my dentist. Appointments were easy to make and the office was really helpful about answering any questions I had.The facilities were always comfortable and super clean. As an adult going through the process, I appreciated the design and feel of both offices. There's great art up and good tunes at both locations. I mention this because I attended a couple ortho consults where the offices made me feel like I was older than their average client. They managed to make both their offices feel both family friendly and yet approachable for people in their 30s like me.Other than the results, the best part about my experience is that I always felt that the whole team at Peralta Ortho really cares about what they do."
+        },
+        {
+          "author": "Megan Bono",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "My daughter got her braces off today!! I recommend Dr Peralta and his team for anyone looking for braces. They have been Professional and easy to work with!"
+        },
+        {
+          "author": "Steve K",
+          "author_meta": "9 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "Just got my braces off and my teeth look great - I cannot stop smiling! Thank you!!!Dr. Peralta and his team are excellent.  They are friendly, professional, and communicate the progress of my treatment status regularly and clearly - As a 30 year old adult that was really important to me.  Once I had the consultation with Dr. Peralta I knew him and his team were the clear choice for my braces.  Just got my braces off and I am very happy with my new smile!"
+        },
+        {
+          "author": "Maggi Qerimi",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "I went to Dr. Peralta because he had done my dentist’s braces and came highly recommended. And I am so glad I did. He is detailed, realistic in his estimates and projections, and he is efficient. He was great at preempting my questions and concerns, and I always left feeling happy with the care I received. I have recommended him to my brother and my good friend, and I’d recommend him to anyone else. I traveled to a different city to see Dr. Peralta for ortho care because he is that good. Just as importantly, his entire team is amazing. They, too, are efficient, helpful and transparent with their work. If ever I need additional work, I wouldn’t look anywhere else."
+        },
+        {
+          "author": "Laura Sorensen",
+          "author_meta": "Local Guide·18 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 years ago",
+          "date_approx": "2017-08-10",
+          "text": "I just got my braces off earlier this week and I couldn't be happier with my time in braces. Dr. Peralta is an experienced and knowledgeable orthodontist. Him and his staff take great care of their patients. My retainers fit great and I really appreciate the time they spent with me at all my appointments. I would recommend Peralta Orthodontics to any of my friends or family."
+        },
+        {
+          "author": "D. Williams",
+          "author_meta": "Local Guide·53 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I went through most of my life embarrassed to smile. My teeth were severely crooked & overlapping. All of that changed when I was introduced to Dr. Peralta & his amazing staff. Teeth I thought had to be extracted were strategically adjusted & perfectly aligned. Now, I can smile with confidence. If you find yourself in a similar predicament, I would suggest giving them a call."
+        },
+        {
+          "author": "Amanda Alleson",
+          "author_meta": "7 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "It's counter-intuitive, but we love visiting the orthodontist! Dr. Peralta is magic and his staff are so welcoming and competent and kind! I'm so glad that our pediatric dentist referred us. I was terrified of not being able to pay for my kids' teeth: compassionate payment terms and options laid patiently out for me quickly put my worries to rest. On top of it all: the aesthetic of the office is very pleasing - I love this place and would refer anyone there."
+        },
+        {
+          "author": "Katie",
+          "author_meta": "7 reviews·13 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "GREAT Ortho experience! Dr. Peralta is both very professional and personable, and his team is amazing! As an adult I had reservations about getting braces but I am SO happy I did! My teeth look amazing!!  and thanks to Dr. Peralta and his team the experience was seamless.Every time I went in for an appointment, I was greeted and treated like family! my appointments were always on time, and the office is clean and welcoming.Thank you DR. Peralta, Rossana, Amanda, Christi, and the rest of the team for going above and beyond and making this such a good experience!Highly recommended!!"
+        },
+        {
+          "author": "Sarah Selim",
+          "author_meta": "Local Guide·65 reviews·34 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "I was an client of Dr. Peralta and would highly recommend! I had braces before and was returning as an adult. He had estimated 18 months and the estimate was right on time. The result is great and his techniques were very time effective. Both the Burien and West Seattle office are clean and modernThe staff is very well trained and friendly. Would recommend! Expect appointments every month that were about 25 minutes long from arriving to leaving."
+        },
+        {
+          "author": "Christine Lamson",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Today my braces came off. I am thrilled!  Dr. Peralta and his entire team are great!! Highly recommend this group of pros!"
+        },
+        {
+          "author": "brisa mendez",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Dr.Peralta and team are the best in Seattle! I absolutely love my final result with my braces finally off 😍 I remember searching for a good doctor and half the doctors I visited said I must remove my Molar back teeth in order to start treatment. After visiting Peralta Ortho. I was told the truth after my x-rays that removing my molars were not a “must” but only if I wanted to. I loved the fact that I was told the two versions of the final results if I were to remove my molars and the look with molars in. (Obviously every person is different and every case will be different) But my first impression was sincerity from the beginning and I knew I could trust in this team to reconstruct my new smile. Now my smile is radiant and thanks to the whole team who helped achieve the look, but beyond that the care is great and their all very kind! I work in TV reporting now and I can confidently smile, while on Camera, because I know my smile is pure, sincere and beautiful. Highly recommend this team! They are great 😊"
+        },
+        {
+          "author": "Jeff Cohn",
+          "author_meta": "7 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "Throughout Mia daughter's five year journey, Dr Peralta and his staff have been incredible to work with. The orthodontic plan for Mia, and all costs were laid our for us up front. Staff members were friendly and professional, and very accommodating. Even when it was determined that more time would be needed, we received no additional billing. My daughter's teeth are beautiful, and we both recommend Dr. Peralta."
+        },
+        {
+          "author": "Cecile Durand-Shea",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Both my kids got their braces recently in the West Seattle office. The staff is very nice and I love the scheduling flexibility, plus we never had to wait to be seen.  I would definitely recommend the services of Dr. Peralta.  He is very professional, clearly explains the process and I can't wait to see the results!"
+        },
+        {
+          "author": "Mimi Matlack",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "Dr. Peralta is a true artist! He has worked on my daughters and myself and we are so happy with our smiles!  He worked around my anxiety issues. The staff are warm, friendly and very professional. The office is conveniently located and has a fresh, modern look. I highly recommend Dr. Peralta!"
+        },
+        {
+          "author": "Nancy Willis",
+          "author_meta": "Local Guide·11 reviews·10 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "I <3 Peralta Orthodontics  :-)I am an adult patient and just got my braces off.  I love my new smile! In the years I have been coming here, I have grown quite attached to the staff and feel like part of the family. Every step of the way, they answered my plethora of questions and have always been friendly, patient and wonderful with my care. I HIGHLY recommend them for all of your orthodontia needs."
+        },
+        {
+          "author": "Cole Levy",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Throughout my treatment, all of the Peralta Ortho staff have been incredibly welcoming and friendly to me. Aside from being informative, they do a wonderful job of making patients feel at home, and they were remarkably understanding of my need to reschedule on a few occasions when I dropped the ball. Orthodontic procedures can feel like quite a process, but the good folks at Peralta Orthodontics make the process as smooth as possible, and that peace of mind is invaluable."
+        },
+        {
+          "author": "Elizabeth's Mendoza",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": "I got my braces off and overall my whole experience here was so worth it!!"
+        },
+        {
+          "author": "Sarah Grubbs",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "Peralta was an amazing experience!  Very friendly staff, good scheduling options and prompt response when episodic issues happened."
+        },
+        {
+          "author": "Charlotte Arthur",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "A big thank you to everyone at Dr. Peralta’s office for making every visit such a fun and enjoyable experience. And an extra shoutout to David for always bringing a smile to my face and making checkups something I could actually look forward to. Thank you for everything"
+        },
+        {
+          "author": "Julie Quade",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Fabulous experience all around! Final result with braces off today is spectacular! Everyone at this office is super friendly, kind and knowledgeable. Would highly recommend to anyone!"
+        },
+        {
+          "author": "Dacey Tanaka",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Just got my braces off!! Staff is super kind and caring — funny too! (David is amazing.)Thank you to the Peralta team!!!"
+        },
+        {
+          "author": "michelle vuong",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Dr. Peralta is a great orthodontist. He is very professional with his work and is very knowledgeable in his craft. He is one of the best orthodontists I’ve ever seen. He has helped both of my sons greatly since they were very young, as well as myself. Dr. Peralta’s entire staff is very family-friendly, and is very good at what they do. We recommend everyone who needs orthodontic care to go to Dr. Peralta because he is very experienced and professional."
+        },
+        {
+          "author": "jake papa",
+          "author_meta": "Local Guide·33 reviews·148 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "I could not have picked a better place to get my braces at the age of 36….now 39 (geee I’m old!). Anyway…. As I sit in bed with my retainers on, I can't help but reflect on the amazing experience I had with Dr Peralta and staff.  It was a long 3 years (1 of those covid).  Thank you for the amazing experience and TLC you gave my sister and I during this journey.  I have been referring my friends and their kids to your office and will continue to do so.  You guys are the best.It was challenging making the trek to the West Seattle location with the bridge closure which is funny now that I think of it... the month I got my braces off... they open the bridge!!!  Love my smile ! Thanks Team Peralta!P.S. I've also been referring strangers I meet who I think need braces.  So far no fights but much appreciation when I make that referral"
+        },
+        {
+          "author": "Kailea Lane",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "David took my braces off, Amanda did the rest of my treatment! I had fun at the office, Dr. Peralta is amazing! Overall a great experience!"
+        },
+        {
+          "author": "Kathleens Stoll",
+          "author_meta": "2 reviews·7 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "My son has been pleased with his experience at Dr. Peralta. We were educated right from the start about the process. My son is happy with his progress. He is getting his braces off and they're on schedule. He cannot wait for his new smile. Our visits are quick, on time and the staff is very friendly. Next is our daughter so we will continue our visits with Dr. Peralta. I highly recommend Dr. Peralta."
+        },
+        {
+          "author": "Annie Veneruso",
+          "author_meta": "Local Guide·39 reviews·48 photos",
+          "rating": 1,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": "I got a Hawley retainer from them 2 years ago and it has broken. They're supposed to last much longer than that and I take very good care of my retainers. This was supposed to be a replacement for my existing Hawley I got from a different orthodontist that I had for 6 years prior. Thank goodness I still have my previous retainer since my new one from Peralta broke. The wire just snapped. I called Peralta to get a replacement but they are gone for a week on vacation? No backup staff? I understand people going on vacation but isn't it a standard business practice that they have people to rotate in and continue to provide service? This is very inconvenient with no solution provided.And when I got my Hawley it was noticably thick compared to my original retainer from a different orthodontist and the wire was not as precise as my previous orthodontist. And also, my teeth have moved very slightly since I used my original retainer as my emergency until I can see my old orthodontist again-- and it was tight. Disappointed all around with quality and staffing issue."
+        },
+        {
+          "author": "jayla bernier",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 months ago",
+          "date_approx": "2026-04-10",
+          "text": "i got my braces off :D. if i could i would give this place 6 stars. okay bye bye"
+        },
+        {
+          "author": "Terry Stanford",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "60 years old and I need braces???  Thought that would be a terrible experience, but quiet the opposite.  Dr. Peralta and his entire staff made this process painless, cost effective, speedy and I am thrilled with the results!  I was afraid I would be the only adult patient in the office but nope, he told me that the fastest growing population getting new braces is adults over 50!  Who knew?  You will not go wrong trusting your care to Dr. Peralta and his entire talented and VERY efficient staff.  My neighbor is now getting braces too!  Thank you everyone at Peralta Orthodontics. I particularly like your beautiful new office in West Seattle!!"
+        },
+        {
+          "author": "Michael Davidson",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I’m extremely happy with my experience with Peralta Orthodontics. The staff was great. They took their time and were patient throughout the process. I would not hesitate to recommend them."
+        },
+        {
+          "author": "Regis B",
+          "author_meta": "Local Guide·19 reviews·8 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Dr. Peralta and his staff are AMAZING! I had my braces on just over two years (longer than originally expected), thanks to the pandemic but they were still able continue with the adjustments. They are all wonderful and very accommodating. If you are thinking about getting, or need, braces I highly recommend Dr. Peralta. There is a reason why he is recognized and awarded as one of Seattle’s topDentists year after year. True professionals and it feels like you’re visiting family any time you come into either one of his offices. Yes, two offices to suit your schedule—one in Burien and the other in West Seattle. Thanks Dr. Peralta and staff!"
+        },
+        {
+          "author": "Tasia",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "David is the best person ever!!! he took my braces off and it was super fast and easy! I’ve never been happier"
+        },
+        {
+          "author": "Mariel Ponce",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "To put into words the treatment & service I’ve received from Dr. Peralta and his staff couldn’t describe how truly amazing they honestly are! Every single visit has been exceptional. Beforehand I was very apprehensive when it came to receiving good medical care but now, I know that there’s actually a great orthodontist office that truly care for their patients! I highly recommend this office to anyone who is looking for the best!!!"
+        },
+        {
+          "author": "Autumn Lovewell",
+          "author_meta": "8 reviews·4 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Our daughter had a severe underbite when we brought her to Peralta 3 years ago. I was thinking she might require jaw surgery but now he we are 3 years later and her smile is perfect and healthy with a jaw that is lined up the way it should be. The whole process from start to finish was perfect too. From kind and friendly front office staff to gentle technicians and of course Dr Peralta himself is so gracious and personally vested in each patient. His pride in his work shows, as it should. Highly recommend!"
+        },
+        {
+          "author": "Kara Erickson",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I’m happy with my teeth! My smile looks so much better! David is the best! 10/10 recommend. Amanda is great too!"
+        },
+        {
+          "author": "Mary Lin",
+          "author_meta": "Local Guide·58 reviews·176 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "I have great confidence in sending anyone who has orthodontic needs to Dr. Peralta.  The thought of having to get adult braces was daunting enough and after many visits to surrounding orthodontic offices I settled in on Dr. Peralta and his staff.From onset, the warm greeting by the staff to the professional treatment and follow up care I was more than satisfied by the results. I have a hectic travel schedule and they accommodated me on many occasions when work trips and life changed the appointment times and dates. Their two locations make it easy to book different appointments depending on the dates.The whole staff went out of their way to make the experience more like going to a favorite coffee shop where everyone knows who you are, what you like, and cares about your like a family.I've had my braces off for several months now and still marvel at what a difference it has made.  Dr. Peralta fixed my bite and my smile is even more dazzling :-DI would like to thank DR. Peralta, Rossana, Amanda, Christi, and Jacklyn for sharing this journey towards a more perfect smile."
+        },
+        {
+          "author": "Amy Tran",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "After 21 months of wearing braces i can finally be confident with my smile again!!! Great customer service and the place is very aesthetically pleasing and clean 🫶 would recommend for anyone"
+        },
+        {
+          "author": "Sherri Wakefield",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "Dr Peralta and his staff are very friendly and professional. They always make us feel like their favorite patients & my son was very happy with how quickly he was able to get his braces off with a new beautiful smile!"
+        },
+        {
+          "author": "Hope Klingenstein",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "Best orthodontist out there! Looks after us patients & saves us money!! Love my smile!!"
+        },
+        {
+          "author": "Monica Price",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "Dr. Peralta and the staff are kind and enthusiastic. Each time my son is in for an appointment they engage him and show excitement for the progress that is being made with his teeth. The office staff is easy to work with and work with me to find appointments that work for our schedule."
+        },
+        {
+          "author": "Michael Green",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Dr. Peralta and his team did a wonderful job with my treatment and I couldn’t be happier with my new smile. Thanks again!"
+        },
+        {
+          "author": "Jeff Schumacher (codereflection)",
+          "author_meta": "Local Guide·25 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "Fantastic service. Dr Peralta and the entire team always works towards what is best for the patient.  After two of my kids having braces here, I hope to get them too with Dr Peralta in the future."
+        },
+        {
+          "author": "James Hachiya",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "Edited 5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Dr. Peralta was recommended by my dentist. Before having an implant, my teeth needed to be straightened. I have always been leery of any kind of dental work, particularly ortho work at my age(almost 61 years). When I first contacted the office, they put me at ease, and said that many of their patients are over 50 years. Dr. Peralta showed me many files of past patients over 50 and 60 years, including one whose before smile looked identical to mine. Now I felt at ease. But what really motivated me was the professional demeanor and friendliness of the staff. Also, seeing the many awards for “Best Dentist in Seattle “ for many consecutive years meant that I chose the right orthodontist for my particular malady. I started on a Wednesday, but experienced a few broken brackets by the next day, but they took care of it by Friday. They opened up space for me at their West Seattle clinic. Nice! I’m sure everyone will tell you that their dentist or orthodontist is the best, but my experience has been very positive with Dr. Peralta and his staff, and if you do decide to have ortho work done here, you will not be disappointed.January 27, 2021I had my braces removed yesterday after about a year and a half of treatment. I couldn’t be more happy with the results. I was accustomed to view my smile a certain way all my life, but now it’s hard to believe that these are my same teeth!! Wow!!! There aren’t enough explanation marks.😁 My bite has improved because the teeth are where they are supposed to be. Please, if you’re even half way considering improving your smile and bite, then do so. Even at my age, it’s a well worth investment. As always, Dr. Peralta and Staff worked wonderfully and professionally."
+        },
+        {
+          "author": "Jonathan Temlock",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "Dr Peralta and his staff were fantastic. I had a complicated case that required a lot of coordination with my general dentist. Dr Peralta’s staff took much of the burden off of my shoulders and worked directly with my Dentist to make sure everything went smoothly. It’s also incredibly convenient that Dr Peralta now has offices in Burien and West Seattle which makes it a breeze to coordinate appointments based on where you are in the city. I recommend Dr Peralta for all of your orthodontics needs."
+        },
+        {
+          "author": "Kellan Desmarais",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "10 years ago",
+          "date_approx": "2016-08-10",
+          "text": "Friendly, speedy convenient location what more can you ask for? Dr Peralta and staff treat each patient like family with kindness and respect. They take the time and really explain things. Office receptionists are always friendly and helpful with everything from booking appointments to insurance claims. If your gonna be late be sure to call ahead: they are generally flexible and can work around Everyones schedules. As someone who's had braces before I was hesitant about undergoing treatment again. My last experience was less than perfect with clumsy handling and no retainers given. I'm glad I came here.  Dr peralta is board certified and regularly holds seminars and courses. As someone who has a really complex case postier class 3 crossbite.. Dr Peralta was able to customize a tailored plan to fit my budget, timeline and specialized treatment. Offices have nice layouts and are calming and inviting. I reccomend anyone friend, family or stranger to go to him. He is the best.  I know once my braces come off I will have a beautiful smile and better bite. I can't wait for that day though I will miss my regular banding appointments"
+        },
+        {
+          "author": "Joyce Burdier",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "I absolutely love Dr. Peralta and staff! They are courteous, flexible and pay attention to  detail. I was so scared of the process but they made it seamless and totally worth the smile I have today!y husband, daughter and friend are all patients and we are all VERY happy with our treatment! Thank you all!!!"
+        },
+        {
+          "author": "Hunter Samuels",
+          "author_meta": "Local Guide·17 reviews·7 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 years ago",
+          "date_approx": "2017-08-10",
+          "text": "I had braces done for both me and my Daughter with Dr. Peralta. He is both technically excellent at what he does, but he also has great bedside manner. His staff is also pretty amazing and really made the difference for me!"
+        },
+        {
+          "author": "Eliza Welborn",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Dr. Peralta and his team are always great. They’re always accommodating when I have to come in between appointments. I just got my braces off and I’m very, very happy with the result. I recommend Dr. Peralta to everyone!"
+        },
+        {
+          "author": "Tristin Pagenkopf",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Excellent for both our boys, friendly, clear communicators.  Love the light filled rooms.  Dr Peralta and his staff are a well-oiled operation and they know what they are doing."
+        },
+        {
+          "author": "Olivia",
+          "author_meta": "8 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "Wonderful and caring staff!  Very happy we found Peralta Orthodontics. My kid's teeth look amazing! I highly recommend to anyone looking for orthodontic care."
+        },
+        {
+          "author": "Xannie",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 months ago",
+          "date_approx": "2026-05-11",
+          "text": "Just got done great experience and awesome staff!"
+        },
+        {
+          "author": "Poppy Sheaffer",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 months ago",
+          "date_approx": "2026-01-09",
+          "text": "I just got my braces off! I’m so excited and the experience was great!!!"
+        },
+        {
+          "author": "Heather Glen",
+          "author_meta": "6 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Dr. Peralta and his staff are very nice, explain things well, and seem to be looking out for what is best for each patient.  Both my boys enjoy going there and we have had some great success.  I highly recommend!"
+        },
+        {
+          "author": "Natalia Young",
+          "author_meta": "6 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "It took me many years to finally make the decision to make the appointment to get my teeth straightened. Finally I did and I couldn’t be happier with my results!!!  Dr. Peralta and staff always listened to my requests and answered my questions. I’m loving my new smile."
+        },
+        {
+          "author": "Joseph Francisco",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": "Great service. Very professional and welcoming"
+        },
+        {
+          "author": "Deanna Thomas",
+          "author_meta": "Local Guide·71 reviews·72 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "We have worked with Dr. Peralta and his staff for several years; you won't find a more outgoing or dedicated group of professionals for your orthodontic treatment. Here at Trace Ortho Lab, we're proud to support Peralta Orthodontic patients at both their locations, and would recommend them to family and friends alike."
+        },
+        {
+          "author": "Kari O'Neill",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": "Fantastic staff and a super smile result!"
+        },
+        {
+          "author": "Fio F.",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Such a great experience! I 100% recommend Dr. Peralta for your orthodontics needs, the team here is so kind and professional!"
+        },
+        {
+          "author": "Jenny Huntley",
+          "author_meta": "6 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Dr. Peralta is highly skilled at his craft. His patience for his patients is amazing, especially those of use with high demands. The staff and environment is friendly and welcoming.Thank you Dr. Peralta and team."
+        },
+        {
+          "author": "Michelle Aurelio",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "This office is the jam!  Dr. Peralta and team are outstanding. I'm so happy with my results and enjoyed the process, this was my second time having braces and compared to my first experience I now know what I was missing. Thank you Peralta!"
+        },
+        {
+          "author": "Mason Fleischauer",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 years ago",
+          "date_approx": "2018-08-10",
+          "text": "Dr. Peralta is awesome! I just got my braces off a day before my high school graduation, as promised, because of his great timing and scheduling. I couldn't be happier!"
+        },
+        {
+          "author": "Carol Adams",
+          "author_meta": "4 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "Peralta Orthodontics is absolutely the best in town. They are responsive, kind, and very good at what they do. My daughters both agree that \"they have the best orthodontist!\""
+        },
+        {
+          "author": "jason robertson",
+          "author_meta": "Local Guide·27 reviews·7 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "The best experience ever! Super great staff the Dr. really cares about his work and makes sure every question is answered until you feel good about it. The after care is top notch and doesn’t end when the braces come off."
+        },
+        {
+          "author": "Rosie Steinhauer",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Two years ago I went to the dentist he recommended me to get braces (because of my bite). I seriously contemplated it all the way up until the day I was going to get them, I mean I'm 50!! But I wanted to be able to chew for the rest of my life so I did it. One of the smartest investments I've done. This is today, I have no whitening filter on my teeth this is stepping out of my ortho (clear braces). I am so happy.. although I have six more months in them.If you need a ortho I highly, highly recommend Dr. Peralta in Burien or West Seattle him and his office staff are the best. Not to mention he is doing miracles with Jaedon. So for now, I'm just counting down the months!"
+        },
+        {
+          "author": "Saggio Ricercatore",
+          "author_meta": "Local Guide·133 reviews·2,367 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Great location with friendly, competent, accommodating staff. Dr P will collaborate with you to create the smile you deserve. Rosanna is very caring and gentle with adjustments. Go to the neighborhood early and grab a nice lunch or do a little browsing at the cute little bistros and boutiques nearby."
+        },
+        {
+          "author": "Vic Physiques",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "Edited 3 years ago",
+          "date_approx": "2023-08-10",
+          "text": "Dr. Peralta and his team took amazing care of me.  They are an extremely kind and patient. I knew what to do and what to expect each step of the way. I can’t thank them enough."
+        },
+        {
+          "author": "Michael Ryan Barbello",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I had an excellent experience at Dr. Peralta's office. The staff is professional, friendly, and they made a huge difference with my alignment. I would highly recommend them!"
+        },
+        {
+          "author": "Lisa Duong",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "Friendly, safe,  and always got me in and out of my appointments quickly.  The estimated time in braces was pretty spot on and the results were absolutely something to smile about."
+        },
+        {
+          "author": "RJ Alcantara",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Time flew fast! I had a great experience throughout the 2 years that I’ve been a patient here. The whole team is kind and helpful. I highly recommend!"
+        },
+        {
+          "author": "Layla ElAraby",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Dr.Peralta and his whole team are amazing, I love the work they did for me and I would return if ever needed"
+        },
+        {
+          "author": "Jonary",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": "I’ve been coming to Peralta Orthodontics for a long time, they’re super nice and friendly every time I go!  they made my teeth straighter than I imaged and I definitely recommend I can’t stop smiling :)"
+        },
+        {
+          "author": "Jennifer Young",
+          "author_meta": "1 review·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Dr Peralta did a fantastic job on our son’s teeth!  We are thrilled with his work and his team!  Highly recommended!"
+        },
+        {
+          "author": "Peter Iversen",
+          "author_meta": "12 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Huge thanks 🙏 for the amazing job from Peralta Orthodontics. Standout team and operation throughout the process. Couldn’t be happier with the results!!! 💥🤙"
+        },
+        {
+          "author": "Miguel Herrera",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Excellent work at Peralta Orthodontics. Big shout out to Erin, Jacqueline, David, Rosana and the rest of the team for being a part of the process."
+        },
+        {
+          "author": "Mireya Solis (Armani)",
+          "author_meta": "11 reviews·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Never truly thought I would have so much fun at the dentist office, and I don’t even work there.  This staff is so much fun including the dentist. FUN FACT!! There is a singer amongst this staff, if you get a chance to hear HER sing, like my comment.. I heard a glimps and it was YouTube worthy!!  The only catch is she is super shy I’m not gonna mention her name but if you get a chance post it! Lol my goal is to fully get her to sing before my end date. I don’t know how but it’s going to happen :)"
+        },
+        {
+          "author": "Casie LaBella",
+          "author_meta": "Local Guide·14 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": "Dr. Peralta and his staff are professional and supportive.  I was referred to his office by my children's dentist and several other parents and we have not been disappointed."
+        },
+        {
+          "author": "Riley",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "i got my braces off here, they look amazing! everyone is really nice!"
+        },
+        {
+          "author": "Gamachu Uke",
+          "author_meta": "Local Guide·145 reviews·9 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 years ago",
+          "date_approx": "2022-08-10",
+          "text": "Best ortho in town. I went from having gaps and not feeling comfortable to smile to feeling very comfortable to smile. Thanks to Dr. Peralta and the team for making the process easy."
+        },
+        {
+          "author": "1776_USA",
+          "author_meta": "Local Guide·202 reviews·297 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Wonderful experience with the friendly and professional Doctor and office staff! The treatment to align my teeth was smooth and achieved wonderful results.🅰️➕💯"
+        },
+        {
+          "author": "Greg Whittaker",
+          "author_meta": "Local Guide·16 reviews·17 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "David communicated clearly and did a fantastic job keeping us updated.   Braces are off and they look great for a lifetime."
+        },
+        {
+          "author": "Rose Trail",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "I have been coming here for alittle over 3 years and had a lot of stuff done from bone graghs to having 2 teeth pulled to make my teeth straight. I am 58 years old never to late! The staff is amazing and professional at all times."
+        },
+        {
+          "author": "Fiona Hope",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 years ago",
+          "date_approx": "2017-08-10",
+          "text": "Dr. Peralta and Rosanna are so professional and kind. I would definetly recommend getting your braces here! I had a great experience."
+        },
+        {
+          "author": "Amy Tran",
+          "author_meta": "Local Guide·11 reviews·14 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "It was the best experience ever. From the staff to the treatment, everything was amazing. My bite just feels great right now. 🫶🏻🫶🏻🫶🏻"
+        },
+        {
+          "author": "Alex Meyer",
+          "author_meta": "2 reviews·7 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Very impressed with their care over the past two years. Everyone in the office is friendly and professional and I can smile now with confidence! Thank you!"
+        },
+        {
+          "author": "JG",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Professional and friendly staff. Great customer service. A super clean, calm and reassuring environment. Dr. Peralta is very relatable, and takes the time to answer my questions. Highly recommend!"
+        },
+        {
+          "author": "Anthony Balducci",
+          "author_meta": "Local Guide·26 reviews·12 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Not only are the staff friendly, but the facility is always very clean and welcoming.  David is particularly very engaging & fun!!"
+        },
+        {
+          "author": "Iosefatu Sua",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 months ago",
+          "date_approx": "2026-05-11",
+          "text": "Wonderful staff, professional and friendly service."
+        },
+        {
+          "author": "Alex Calvano",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I got my braces off today, Dr. Peralta is the best! 😁😁"
+        },
+        {
+          "author": "maria aydiid",
+          "author_meta": "2 reviews",
+          "rating": 1,
+          "rating_scale": 5,
+          "date": "2 years ago",
+          "date_approx": "2024-08-10",
+          "text": "I wish there was less one star. This place scummed me and charged about $400 for “ records” that I can’t even have, and refused to continue my treatment. All that’s because of the management lady who was inconsidrate."
+        },
+        {
+          "author": "Louisea Hudson",
+          "author_meta": "10 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Love my experience here. The staff is amazing - especially David, Amanda and the ladies at the front desk."
+        },
+        {
+          "author": "Subeg Dhillon",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I got my braces off and I have been here 5 years and it’s been an amazing ride. And I will miss  everyone here."
+        },
+        {
+          "author": "Alicia",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I just got my braces off! I’m excited and so happy. They did great!"
+        },
+        {
+          "author": "Heidi Torvik",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "We had an excellent experience!  Dr. Peralta and all of the staff members are wonderful!"
+        },
+        {
+          "author": "Jimix",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 months ago",
+          "date_approx": "2026-02-08",
+          "text": "got my braces off and it is awesome"
+        },
+        {
+          "author": "Angela Schonbok",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "We were very happy with Dr. Peralta and the staff. Would recommend!"
+        },
+        {
+          "author": "Anthony Marino",
+          "author_meta": "1 review·2 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "My daughter had a great experience, great staff before, during, and after getting her braces on."
+        },
+        {
+          "author": "Ralph Lane",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Friendly staff, great smiles, excellent work!I really like the nice clean environment.Overall, great experience!"
+        },
+        {
+          "author": "Dave H",
+          "author_meta": "Local Guide·48 reviews·18 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "Dr Peralta and his staff are excellent. They work very hard to make their patient's experience the best it can be. Highly recommended."
+        },
+        {
+          "author": "Yurguis Moreno Bordama",
+          "author_meta": "11 reviews·4 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 months ago",
+          "date_approx": "2026-02-08",
+          "text": "Great experience. Fantastic people!"
+        },
+        {
+          "author": "Riley Aoki",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "after my braces came off my teeth were just the way i wanted them and i was so happy"
+        },
+        {
+          "author": "Mary Nackos",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Dr. Peralta and Staff are professional, on time, friendly, and eager to take time to help. We moved far away but still trek to be his patient."
+        },
+        {
+          "author": "Federica Dilley",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I just got my braces off and they did great!"
+        },
+        {
+          "author": "Mara Tatman",
+          "author_meta": "6 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Dr. Peralta and the entire staff are amazing! Life changing results and super accommodating :)"
+        },
+        {
+          "author": "Kaliandra Jones",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Peralta Orthodontics is awesome!  My kiddos teeth look great!"
+        },
+        {
+          "author": "Christine Tolmich",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Couldn't be happier!  Dr. Peralta and staff are a true fit for any client of any age.  I recommend them all the time!"
+        },
+        {
+          "author": "Matt Clemens",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "The service was great and the music was infectious"
+        },
+        {
+          "author": "Vicki McCormick",
+          "author_meta": "Local Guide·51 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Absolutely the best!!!  Very compliant, friendly, conscientious ortho practice!!Dont hesitate to trust in Peralta Orthodontics !"
+        },
+        {
+          "author": "SnowHacker",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "just got my braces off and it was all worth it. 😁 thanks to everyone there for getting me through it!"
+        },
+        {
+          "author": "Isaac",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Very friendly staff Aka Cassie and David. Doctor is doing great like always."
+        },
+        {
+          "author": "Marjorie Nelson",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "They gave me an appointment quickly and fixed my retainer."
+        },
+        {
+          "author": "Noah",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Amazing place, amazing staff I’m grateful for their patience throughout my whole journey."
+        },
+        {
+          "author": "Claudia Ludwig",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 years ago",
+          "date_approx": "2017-08-10",
+          "text": "Dr. Peralta and staff are terrific! We've been happy with both the process and results thus far."
+        },
+        {
+          "author": "Kelly Kuciemba",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Everyone does a great job here and  at the Burien location. I'm very confident in the Peralta Orthodontic team."
+        },
+        {
+          "author": "Alex sandoval",
+          "author_meta": "Local Guide·12 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Top notch facility and staff!  Took my daughter there and then did it for myself!"
+        },
+        {
+          "author": "BeatsByMILO",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 months ago",
+          "date_approx": "2026-03-11",
+          "text": "Great experience and results"
+        },
+        {
+          "author": "Alexi Ludwig",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I love how straight they made my teeth look and how little pain it was"
+        },
+        {
+          "author": "Ayla Sims",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Just got my braces off! Amazing care from David!"
+        },
+        {
+          "author": "Brynn Patrick",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Just got my braces off, great experience!"
+        },
+        {
+          "author": "Kean Sprister",
+          "author_meta": "7 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "extremely nice people. Very easy to schedule would highly recommend."
+        },
+        {
+          "author": "Sarah Henry",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "My son smile is gorgeous and such amazing people."
+        },
+        {
+          "author": "Elaine Ellerton",
+          "author_meta": "Local Guide·29 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "These guys have been wonderful and made a not so fun experience for my daughter very tolerable!"
+        },
+        {
+          "author": "Talus Magaña",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 months ago",
+          "date_approx": "2026-01-09",
+          "text": "5 and half years but so worth it"
+        },
+        {
+          "author": "Amelia Geddis",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "I just got braces off and teeth look great"
+        },
+        {
+          "author": "Dominic Coppolillo",
+          "author_meta": "Local Guide·29 reviews·13 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "Awesome!"
+        },
+        {
+          "author": "Alie Bishop",
+          "author_meta": "Local Guide·6 reviews·57 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Fantastic experience. Always on time, personal and professional."
+        },
+        {
+          "author": "Siroun Ohanian",
+          "author_meta": "19 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 years ago",
+          "date_approx": "2020-08-09",
+          "text": "Friendly,nice and very professional. The staff is the best. Very good outcome and results."
+        },
+        {
+          "author": "Maleb Huey",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "I’m done it was pretty easy"
+        },
+        {
+          "author": "KJM",
+          "author_meta": "Local Guide·21 reviews·33 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Nice and quick and patient with my daughter. Always nice to see smiling faces."
+        },
+        {
+          "author": "Janel Andrea",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "My bite is corrected and my smile is improved!"
+        },
+        {
+          "author": "Mateo Leon-Stephens",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 months ago",
+          "date_approx": "2026-05-11",
+          "text": "Thank you everyone"
+        },
+        {
+          "author": "Isabella Lemay",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "My teeth look amazing!! ❤️❤️😛😛😛"
+        },
+        {
+          "author": "Lynnsley Villalobos",
+          "author_meta": "5 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "The best office and staff"
+        },
+        {
+          "author": "Alicia Ramirez",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Good Job Dr Peralta!"
+        },
+        {
+          "author": "supertvp",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "david the goat took my braces off"
+        },
+        {
+          "author": "Danielle Anderson",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "everyone here is super nice!"
+        },
+        {
+          "author": "Josie Ambrose",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "my braces are off woohoo!!"
+        },
+        {
+          "author": "Daelin Garlick",
+          "author_meta": "Local Guide·35 reviews·126 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Very Friendly, and did a great job. Thank you!"
+        },
+        {
+          "author": "Gavin Flajole",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 months ago",
+          "date_approx": "2026-02-08",
+          "text": "Thank you!"
+        },
+        {
+          "author": "Coco Freeman",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "my teeth look fantastic"
+        },
+        {
+          "author": "Diego Gomez",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "finally got my braces off!"
+        },
+        {
+          "author": "Jolene Robert",
+          "author_meta": "7 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": "Dr. Peralta and his staff are fantastic."
+        },
+        {
+          "author": "Aidan Schumacher",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 months ago",
+          "date_approx": "2025-11-09",
+          "text": "Thanks for the straighter teeth!"
+        },
+        {
+          "author": "whit linxweiler",
+          "author_meta": "19 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "There so Nicee"
+        },
+        {
+          "author": "Madis Meyer",
+          "author_meta": "4 reviews·4 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": "great time"
+        },
+        {
+          "author": "Jack Rooney",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Good stuff"
+        },
+        {
+          "author": "Molly Schoeb",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": "Loved the easy scheduling & staff!"
+        },
+        {
+          "author": "Sky Phanivong",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": "Cool"
+        },
+        {
+          "author": "Desiree Escalona",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": "Quiero agradecer al Dr. Peralta y a todo su equipo por el excelente trabajo que hicieron con mi hija. Desde que entramos, el ambiente fue muy amable y profesional. El doctor Peralta y David, fueron muy pacientes, muy claros al explicar cada paso, y se tomaron el tiempo para que mi hija se sintiera tranquila y en confianza. Todo el equipo fue muy atento y cuidadoso, lo cual hizo que la experiencia fuera muy positiva para ella (¡y para mí también!). Sin duda los recomiendo por su gran calidad humana y profesionalismo. Los dientes de mi hija se ven preciosos! ¡Gracias por cuidar tan bien de nuestros hijos! 🥰I want to thank Dr. Peralta and the entire team for the excellent work they did with my daughter. From the moment we walked in, the environment was warm and professional. Doctor Peralta and David  were very patient, clearly explained each step, and took the time to make sure my daughter felt calm and comfortable. The whole team was attentive and caring, which made the experience very positive for her (and for me too!). I highly recommend them for their professionalism and kindness. My daughter’s teeth look beautiful! Thank you for taking such great care of our children!"
+        },
+        {
+          "author": "Catarina Ralac",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 months ago",
+          "date_approx": "2025-09-09",
+          "text": "Estoy muy feliz"
+        },
+        {
+          "author": "Max McLachlan",
+          "author_meta": "1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": null
+        },
+        {
+          "author": "Sadie Smith",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": null
+        },
+        {
+          "author": "moe",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a month ago",
+          "date_approx": "2026-07-11",
+          "text": null
+        },
+        {
+          "author": "Ryan",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": null
+        },
+        {
+          "author": "Yasin Hassan",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "2 months ago",
+          "date_approx": "2026-06-10",
+          "text": null
+        },
+        {
+          "author": "Sabina Crosby",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 months ago",
+          "date_approx": "2026-05-11",
+          "text": null
+        },
+        {
+          "author": "Suri Emigdio",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 months ago",
+          "date_approx": "2026-05-11",
+          "text": null
+        },
+        {
+          "author": "Nolan Mantey",
+          "author_meta": "1 review·3 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "4 months ago",
+          "date_approx": "2026-04-10",
+          "text": null
+        },
+        {
+          "author": "Alma Coria",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 months ago",
+          "date_approx": "2026-02-08",
+          "text": null
+        },
+        {
+          "author": "jinm hohj",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 months ago",
+          "date_approx": "2026-02-08",
+          "text": null
+        },
+        {
+          "author": "Chien Le",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "6 months ago",
+          "date_approx": "2026-02-08",
+          "text": null
+        },
+        {
+          "author": "Matt Tomsic",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 months ago",
+          "date_approx": "2026-01-09",
+          "text": null
+        },
+        {
+          "author": "Teresa Thompson",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 months ago",
+          "date_approx": "2026-01-09",
+          "text": null
+        },
+        {
+          "author": "Kellan Miller",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 months ago",
+          "date_approx": "2026-01-09",
+          "text": null
+        },
+        {
+          "author": "Jennifer Rice",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": null
+        },
+        {
+          "author": "Sicilia Saad",
+          "author_meta": "3 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": null
+        },
+        {
+          "author": "Emy Peaks",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "8 months ago",
+          "date_approx": "2025-12-09",
+          "text": null
+        },
+        {
+          "author": "Skyler Giedeman",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "9 months ago",
+          "date_approx": "2025-11-09",
+          "text": null
+        },
+        {
+          "author": "MJ Shafer",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "11 months ago",
+          "date_approx": "2025-09-09",
+          "text": null
+        },
+        {
+          "author": "Danny Johnson",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Roger Jacobsen",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Gabriel Toal",
+          "author_meta": "2 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Mateo Sepulveda",
+          "author_meta": "1 review·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Skorge 2013",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Madie Nelson",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Sam Lol",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Oliver",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Josie Ekberg",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Christine Dufault",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "kristian raucci",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Azure Faloona",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Maureen Moog",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Missie McDonald",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Chidinma Ahana",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Arling vasquez",
+          "author_meta": "Local Guide·125 reviews·153 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "a year ago",
+          "date_approx": "2025-08-10",
+          "text": null
+        },
+        {
+          "author": "Roger Carr",
+          "author_meta": "Local Guide·72 reviews·967 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": null
+        },
+        {
+          "author": "Delilah Juha",
+          "author_meta": "1 review",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": null
+        },
+        {
+          "author": "Alicia Garlick",
+          "author_meta": "1 review·18 photos",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "3 years ago",
+          "date_approx": "2023-08-10",
+          "text": null
+        },
+        {
+          "author": "Hy Ho",
+          "author_meta": "2 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "5 years ago",
+          "date_approx": "2021-08-10",
+          "text": null
+        },
+        {
+          "author": "NsK ReaL",
+          "author_meta": null,
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": null
+        },
+        {
+          "author": "Anthony Barnes",
+          "author_meta": "4 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": null
+        },
+        {
+          "author": "Yibing Zheng",
+          "author_meta": "3 reviews",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
+          "text": null
+        },
+        {
+          "author": "John",
+          "author_meta": "5 reviews·1 photo",
+          "rating": 5,
+          "rating_scale": 5,
+          "date": "7 years ago",
+          "date_approx": "2019-08-10",
           "text": null
         }
       ]
