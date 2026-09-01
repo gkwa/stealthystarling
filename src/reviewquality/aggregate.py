@@ -30,8 +30,15 @@ def summarise(
     harvested: datetime.date,
     half_life_years: float = DEFAULT_HALF_LIFE_YEARS,
     recent_window_days: int = DEFAULT_RECENT_WINDOW_DAYS,
+    prior: reviewquality.scoring.BetaPrior | None = None,
 ) -> Summary:
-    """Return one scored row per practice, best first."""
+    """Return one scored row per practice, best first.
+
+    A caller that passes ``prior`` pins the shrinkage target instead of fitting
+    one. That is what keeps a late addition comparable to rows scored earlier:
+    refitting across a larger roster moves every practice's adjusted columns,
+    so appending one practice would silently restate the whole table.
+    """
     cutoff = harvested - datetime.timedelta(days=recent_window_days)
 
     weighted = reviews.with_columns(
@@ -62,15 +69,24 @@ def summarise(
         (polars.col("text_length") > 0).mean().mul(100).alias("pct_with_text"),
     )
 
-    observations = list(zip(base["satisfied"].to_list(), base["n"].to_list(), strict=True))
-    prior = reviewquality.scoring.fit_beta_prior(observations)
-    logger.info(
-        "fitted prior mean=%.4f strength=%.1f (alpha=%.2f beta=%.2f)",
-        prior.mean,
-        prior.strength,
-        prior.alpha,
-        prior.beta,
-    )
+    if prior is None:
+        observations = list(zip(base["satisfied"].to_list(), base["n"].to_list(), strict=True))
+        prior = reviewquality.scoring.fit_beta_prior(observations)
+        logger.info(
+            "fitted prior mean=%.4f strength=%.1f (alpha=%.2f beta=%.2f)",
+            prior.mean,
+            prior.strength,
+            prior.alpha,
+            prior.beta,
+        )
+    else:
+        logger.info(
+            "pinned prior mean=%.4f strength=%.1f (alpha=%.4f beta=%.4f)",
+            prior.mean,
+            prior.strength,
+            prior.alpha,
+            prior.beta,
+        )
 
     scored = base.with_columns(
         polars.struct("satisfied", "n")

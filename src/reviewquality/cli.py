@@ -10,10 +10,28 @@ import polars
 import reviewquality.aggregate
 import reviewquality.load
 import reviewquality.render
+import reviewquality.scoring
 
 logger = logging.getLogger(__name__)
 
 LOG_LEVELS = [logging.WARNING, logging.INFO, logging.DEBUG]
+
+
+def parse_prior(text: str) -> reviewquality.scoring.BetaPrior:
+    """Parse an ALPHA,BETA pair into a pinned Beta prior."""
+    parts = text.split(",")
+    if len(parts) != 2:
+        raise argparse.ArgumentTypeError(f"expected ALPHA,BETA, got {text!r}")
+
+    try:
+        alpha, beta = (float(part) for part in parts)
+    except ValueError:
+        raise argparse.ArgumentTypeError(f"ALPHA and BETA must be numbers, got {text!r}") from None
+
+    if alpha <= 0 or beta <= 0:
+        raise argparse.ArgumentTypeError(f"ALPHA and BETA must be positive, got {text!r}")
+
+    return reviewquality.scoring.BetaPrior(alpha, beta)
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -51,6 +69,13 @@ def build_parser() -> argparse.ArgumentParser:
         help="drop practices with fewer than N reviews",
     )
     parser.add_argument(
+        "--prior",
+        type=parse_prior,
+        default=None,
+        metavar="ALPHA,BETA",
+        help="pin the Beta prior instead of fitting one across the roster",
+    )
+    parser.add_argument(
         "-v",
         "--verbose",
         action="count",
@@ -82,6 +107,7 @@ def main(argv: list[str] | None = None) -> int:
         harvested=harvest.harvested,
         half_life_years=args.half_life,
         recent_window_days=args.recent_window,
+        prior=args.prior,
     )
 
     table = summary.table
