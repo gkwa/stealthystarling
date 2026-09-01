@@ -14,6 +14,7 @@ uv run reviewquality "orthodontist reviews.json" -vv          # debug logs
 uv run reviewquality "orthodontist reviews.json" --min-reviews 30
 uv run reviewquality "orthodontist reviews.json" --half-life 2
 uv run reviewquality "orthodontist reviews.json" --recent-window 365
+uv run reviewquality "orthodontist reviews.json" --prior 8.950350,0.534357
 uv run reviewannotate "orthodontist reviews.json"             # add date_approx in place
 uv run reviewannotate "orthodontist reviews.json" -o out.json # write a copy instead
 ```
@@ -40,6 +41,21 @@ evidence gets pulled toward the field; heavy evidence barely moves.
 - `1*%`, `<=3*%` — dissatisfaction rates, the most discriminating raw signal
 - `n24`, `sat24%`, `trend` — recent-window volume, satisfaction, and the shift
   against the older cohort
+
+## Pinning the prior
+
+By default the prior is refitted every run, across whatever practices the file
+holds. That is the right behaviour for a fresh analysis and the wrong one for
+a table that has already been written down: adding a practice moves `adj%` and
+`recent%` for every practice already in it, so an append becomes a rewrite.
+
+`--prior ALPHA,BETA` pins the shrinkage target instead. Passing the fit that
+produced an existing table keeps a newly added practice comparable to it while
+leaving the other rows alone.
+
+The 34-practice fit behind the current orthodontist table is
+`--prior 8.950350,0.534357`, which reproduces that table to within 4e-06 on
+every numeric cell.
 
 ## Dates
 
