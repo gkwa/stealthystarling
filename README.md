@@ -17,6 +17,7 @@ uv run reviewquality "orthodontist reviews.json" --recent-window 365
 uv run reviewquality "orthodontist reviews.json" --prior 8.950350,0.534357
 uv run reviewannotate "orthodontist reviews.json"             # add date_approx in place
 uv run reviewannotate "orthodontist reviews.json" -o out.json # write a copy instead
+uv run reviewtextdepth "orthodontist reviews.json"            # text-depth markdown table
 ```
 
 ## Why not just rank by mean rating
@@ -41,6 +42,32 @@ evidence gets pulled toward the field; heavy evidence barely moves.
 - `1*%`, `<=3*%` — dissatisfaction rates, the most discriminating raw signal
 - `n24`, `sat24%`, `trend` — recent-window volume, satisfaction, and the shift
   against the older cohort
+
+## Text depth
+
+`reviewtextdepth` is the other half of the picture. The scored table is
+computed from the star and the date alone, so it cannot tell hundreds of bare
+five-star ratings from hundreds of paragraphs. This one reads the text: how
+much of it exists, how long it runs, and how often it mentions cost or a
+finished result.
+
+Two details are load-bearing and are therefore fixed in the code rather than
+exposed as flags.
+
+The topic patterns, both case-insensitive:
+
+- cost: `\b(price|pricing|cost|expensive|afford|insurance|payment|financ|billing|charge|quote)`
+- result: `\b(result|final|finished|completed|done with|took off|removed my braces|transform)`
+
+The denominators differ by column. `no text` and `over 50 words` are shares of
+every review, because they describe how much of the corpus says anything at
+all. `mentions cost` and `mentions results` are shares of texted reviews only,
+since a bare star cannot mention a topic. `median words` is over texted
+reviews.
+
+Changing either would produce a table that cannot be compared against one
+printed earlier, which is the whole reason this is a committed script rather
+than an ad hoc one.
 
 ## Pinning the prior
 

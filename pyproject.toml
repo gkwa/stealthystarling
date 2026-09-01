@@ -12,6 +12,7 @@ dependencies = ["polars>=1.0"]
 [project.scripts]
 reviewquality = "reviewquality.cli:main"
 reviewannotate = "reviewquality.annotate_cli:main"
+reviewtextdepth = "reviewquality.textdepth_cli:main"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/reviewquality"]
